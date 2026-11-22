@@ -3,14 +3,7 @@ Sla je gesprekken met elke AI op als pdf of druk ze af, in een strak en goed lee
 Eerst werkte ze alleen met ChatGPT; sinds versie 2.0 werkt ze met de belangrijkste AI’s en met elke webpagina.
 
 WERKT MET
-• ChatGPT
-• Claude
-• Gemini
-• Microsoft Copilot
-• Perplexity
-• DeepSeek
-• Grok
-• Le Chat (Mistral)
+• De belangrijkste AI-assistenten, zoals ChatGPT, Claude of Gemini.
 • Elke andere website: drukt de hoofdinhoud van de pagina af.
 • Geselecteerde tekst: selecteer een deel en alleen dat wordt afgedrukt.
 
@@ -51,4 +44,4 @@ OPEN SOURCE
 https://github.com/GofioDesign/AI-PDF
 Ziet een AI-site er niet meer goed uit (ze veranderen vaak)? Meld het op de issues-pagina en we lossen het op.
 
-Gemaakt door Gofio Design. Onafhankelijk project, niet verbonden aan OpenAI, Anthropic, Google, Microsoft of de andere genoemde diensten.
+Gemaakt door Gofio Design. Onafhankelijk project, niet verbonden aan de genoemde diensten.

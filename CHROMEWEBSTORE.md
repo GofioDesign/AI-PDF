@@ -19,7 +19,7 @@ IA → PDF
 Imprime o guarda en PDF tus chats de ChatGPT, Claude, Gemini, Copilot y otras IAs en una vista limpia, con código resaltado.
 ```
 
-**Descripción**
+**Descripción** — usar `store/descripcion-combinada.txt` (todos los idiomas) o `store/descripciones/<idioma>.txt`. No volver a poner listas de nombres de IAs: Google lo considera keyword stuffing (rechazo «Yellow Argon»). Texto antiguo, solo como referencia:
 ```
 Guarda en PDF o imprime tus conversaciones con cualquier IA en una vista limpia y fácil de leer: sin menús, botones ni barras laterales.
 
@@ -145,5 +145,6 @@ https://github.com/GofioDesign/AI-PDF/blob/main/PRIVACY.md
 
 | Versión | Fecha | Cambios | Estado |
 |---|---|---|---|
-| 2.0.0 | 2026-11-22 | Nombre «IA → PDF»; 15 idiomas; crédito opcional al pie; invitaciones locales a valorar (cada 5 usos) y donar (1 vez al año). Pantalla de bienvenida (es/en) al instalar y al actualizar desde la 1.x; icono nuevo. Reescritura: soporte para varias IAs, cualquier web y selección; recorre chats largos; opciones de vista; sin permisos de host | Borrador |
+| 2.0.0 | 2026-11-22 | Rechazada por «Yellow Argon» (lista de nombres de IAs en la descripción = keyword stuffing). Corregido: nombres solo en una frase (ChatGPT, Claude o Gemini) y sin lista de empresas. Reenviada. |
+| 2.0.0 (1.er envío) | 2026-11-22 | Nombre «IA → PDF»; 15 idiomas; crédito opcional al pie; invitaciones locales a valorar (cada 5 usos) y donar (1 vez al año). Pantalla de bienvenida (es/en) al instalar y al actualizar desde la 1.x; icono nuevo. Reescritura: soporte para varias IAs, cualquier web y selección; recorre chats largos; opciones de vista; sin permisos de host | Borrador |
 | 1.5.1 | 2025-09-29 | Versión anterior (solo ChatGPT) | Publicada |

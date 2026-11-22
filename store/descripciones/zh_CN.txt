@@ -3,14 +3,7 @@
 以前只支持 ChatGPT；从 2.0 版起，支持主流 AI 和任何网页。
 
 支持
-• ChatGPT
-• Claude
-• Gemini
-• Microsoft Copilot
-• Perplexity
-• DeepSeek
-• Grok
-• Le Chat (Mistral)
+• 主流 AI 助手，例如 ChatGPT、Claude 或 Gemini。
 • 其他任何网站：打印页面的主要内容。
 • 所选文本：选中一部分，就只打印这部分。
 
@@ -51,4 +44,4 @@
 https://github.com/GofioDesign/AI-PDF
 如果某个 AI 网站显示不正常（这些网站经常改版），请在 issues 页面告诉我们，我们会修复。
 
-由 Gofio Design 开发。独立项目，与 OpenAI、Anthropic、Google、Microsoft 及其他提及的服务无关。
+由 Gofio Design 开发。独立项目，与所提及的服务无关。

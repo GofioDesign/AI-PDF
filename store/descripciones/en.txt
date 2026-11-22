@@ -3,14 +3,7 @@ Save as PDF or print your conversations with any AI in a clean, readable view �
 It used to work only with ChatGPT; since version 2.0 it works with the main AI assistants and with any web page.
 
 WORKS WITH
-• ChatGPT
-• Claude
-• Gemini
-• Microsoft Copilot
-• Perplexity
-• DeepSeek
-• Grok
-• Le Chat (Mistral)
+• The main AI assistants, such as ChatGPT, Claude or Gemini.
 • Any other website: prints the main content of the page.
 • Selected text: select a part and only that part is printed.
 
@@ -51,4 +44,4 @@ OPEN SOURCE
 https://github.com/GofioDesign/AI-PDF
 If an AI site stops looking right (they change often), let us know on the issues page and we'll fix it.
 
-Made by Gofio Design. Independent project, not affiliated with OpenAI, Anthropic, Google, Microsoft or the other services mentioned.
+Made by Gofio Design. Independent project, not affiliated with any of the services mentioned.

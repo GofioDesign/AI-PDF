@@ -3,14 +3,7 @@ Salve em PDF ou imprima suas conversas com qualquer IA em uma visão limpa e fá
 Antes funcionava só com o ChatGPT; desde a versão 2.0 funciona com as principais IAs e com qualquer página da web.
 
 FUNCIONA COM
-• ChatGPT
-• Claude
-• Gemini
-• Microsoft Copilot
-• Perplexity
-• DeepSeek
-• Grok
-• Le Chat (Mistral)
+• Os principais assistentes de IA, como ChatGPT, Claude ou Gemini.
 • Qualquer outro site: imprime o conteúdo principal da página.
 • Texto selecionado: se você selecionar um trecho, só ele é impresso.
 
@@ -51,4 +44,4 @@ CÓDIGO ABERTO
 https://github.com/GofioDesign/AI-PDF
 Se alguma IA deixar de aparecer bem (os sites mudam com frequência), avise na página de issues e nós corrigimos.
 
-Desenvolvido por Gofio Design. Projeto independente, sem relação com OpenAI, Anthropic, Google, Microsoft nem os demais serviços mencionados.
+Desenvolvido por Gofio Design. Projeto independente, sem relação com os serviços mencionados.

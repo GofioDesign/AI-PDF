@@ -3,14 +3,7 @@ Zapisuj do PDF lub drukuj rozmowy z dowolną AI w przejrzystym, czytelnym widoku
 Wcześniej działało tylko z ChatGPT; od wersji 2.0 działa z najważniejszymi AI i z każdą stroną internetową.
 
 DZIAŁA Z
-• ChatGPT
-• Claude
-• Gemini
-• Microsoft Copilot
-• Perplexity
-• DeepSeek
-• Grok
-• Le Chat (Mistral)
+• Najważniejszymi asystentami AI, takimi jak ChatGPT, Claude czy Gemini.
 • Każdą inną stroną: drukuje główną treść strony.
 • Zaznaczonym tekstem: jeśli zaznaczysz fragment, wydrukowany zostanie tylko on.
 
@@ -51,4 +44,4 @@ OTWARTY KOD
 https://github.com/GofioDesign/AI-PDF
 Jeśli jakaś AI przestanie się dobrze wyświetlać (ich strony często się zmieniają), zgłoś to na stronie issues, a to naprawimy.
 
-Stworzone przez Gofio Design. Niezależny projekt, niezwiązany z OpenAI, Anthropic, Google, Microsoft ani innymi wymienionymi usługami.
+Stworzone przez Gofio Design. Niezależny projekt, niezwiązany z wymienionymi usługami.

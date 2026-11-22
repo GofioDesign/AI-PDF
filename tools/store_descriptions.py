@@ -57,7 +57,7 @@ CÓDIGO ABIERTO
 {REPO}
 Si alguna IA deja de verse bien (cambian su web a menudo), avísanos en la página de issues y lo arreglamos.
 
-Desarrollado por Gofio Design. Proyecto independiente, sin relación con OpenAI, Anthropic, Google, Microsoft ni el resto de servicios mencionados.'''
+Desarrollado por Gofio Design. Proyecto independiente, sin relación con los servicios mencionados.'''
 
 D['en'] = f'''Save as PDF or print your conversations with any AI in a clean, readable view — no menus, buttons or sidebars.
 
@@ -105,7 +105,7 @@ OPEN SOURCE
 {REPO}
 If an AI site stops looking right (they change often), let us know on the issues page and we'll fix it.
 
-Made by Gofio Design. Independent project, not affiliated with OpenAI, Anthropic, Google, Microsoft or the other services mentioned.'''
+Made by Gofio Design. Independent project, not affiliated with any of the services mentioned.'''
 
 D['fr'] = f'''Enregistrez en PDF ou imprimez vos conversations avec n’importe quelle IA dans une vue épurée et facile à lire : sans menus, boutons ni barres latérales.
 
@@ -153,7 +153,7 @@ CODE OUVERT
 {REPO}
 Si une IA ne s’affiche plus correctement (leurs sites changent souvent), signalez-le sur la page des issues et nous corrigerons.
 
-Développée par Gofio Design. Projet indépendant, sans lien avec OpenAI, Anthropic, Google, Microsoft ni les autres services mentionnés.'''
+Développée par Gofio Design. Projet indépendant, sans lien avec les services mentionnés.'''
 
 D['de'] = f'''Speichern oder drucken Sie Ihre Gespräche mit jeder KI als PDF – in einer sauberen, gut lesbaren Ansicht ohne Menüs, Schaltflächen und Seitenleisten.
 
@@ -201,7 +201,7 @@ OPEN SOURCE
 {REPO}
 Wenn eine KI nicht mehr richtig dargestellt wird (ihre Websites ändern sich oft), melden Sie es auf der Issues-Seite und wir beheben es.
 
-Entwickelt von Gofio Design. Unabhängiges Projekt, ohne Verbindung zu OpenAI, Anthropic, Google, Microsoft oder den anderen genannten Diensten.'''
+Entwickelt von Gofio Design. Unabhängiges Projekt, ohne Verbindung zu den genannten Diensten.'''
 
 D['it'] = f'''Salva in PDF o stampa le tue conversazioni con qualsiasi IA in una vista pulita e facile da leggere: senza menu, pulsanti né barre laterali.
 
@@ -249,7 +249,7 @@ CODICE APERTO
 {REPO}
 Se un’IA non si vede più bene (i loro siti cambiano spesso), segnalacelo nella pagina delle issue e lo sistemiamo.
 
-Sviluppata da Gofio Design. Progetto indipendente, senza legami con OpenAI, Anthropic, Google, Microsoft né gli altri servizi citati.'''
+Sviluppata da Gofio Design. Progetto indipendente, senza legami con i servizi citati.'''
 
 D['pt_BR'] = f'''Salve em PDF ou imprima suas conversas com qualquer IA em uma visão limpa e fácil de ler: sem menus, botões nem barras laterais.
 
@@ -297,7 +297,7 @@ CÓDIGO ABERTO
 {REPO}
 Se alguma IA deixar de aparecer bem (os sites mudam com frequência), avise na página de issues e nós corrigimos.
 
-Desenvolvido por Gofio Design. Projeto independente, sem relação com OpenAI, Anthropic, Google, Microsoft nem os demais serviços mencionados.'''
+Desenvolvido por Gofio Design. Projeto independente, sem relação com os serviços mencionados.'''
 
 D['pt_PT'] = f'''Guarde em PDF ou imprima as suas conversas com qualquer IA numa vista limpa e fácil de ler: sem menus, botões nem barras laterais.
 
@@ -345,7 +345,7 @@ CÓDIGO ABERTO
 {REPO}
 Se alguma IA deixar de aparecer bem (os sites mudam com frequência), avise na página de issues e corrigimos.
 
-Desenvolvido por Gofio Design. Projeto independente, sem relação com a OpenAI, Anthropic, Google, Microsoft nem os restantes serviços mencionados.'''
+Desenvolvido por Gofio Design. Projeto independente, sem relação com os serviços mencionados.'''
 
 D['nl'] = f'''Sla je gesprekken met elke AI op als pdf of druk ze af, in een strak en goed leesbaar overzicht: zonder menu’s, knoppen of zijbalken.
 
@@ -393,7 +393,7 @@ OPEN SOURCE
 {REPO}
 Ziet een AI-site er niet meer goed uit (ze veranderen vaak)? Meld het op de issues-pagina en we lossen het op.
 
-Gemaakt door Gofio Design. Onafhankelijk project, niet verbonden aan OpenAI, Anthropic, Google, Microsoft of de andere genoemde diensten.'''
+Gemaakt door Gofio Design. Onafhankelijk project, niet verbonden aan de genoemde diensten.'''
 
 D['pl'] = f'''Zapisuj do PDF lub drukuj rozmowy z dowolną AI w przejrzystym, czytelnym widoku: bez menu, przycisków i pasków bocznych.
 
@@ -441,7 +441,7 @@ OTWARTY KOD
 {REPO}
 Jeśli jakaś AI przestanie się dobrze wyświetlać (ich strony często się zmieniają), zgłoś to na stronie issues, a to naprawimy.
 
-Stworzone przez Gofio Design. Niezależny projekt, niezwiązany z OpenAI, Anthropic, Google, Microsoft ani innymi wymienionymi usługami.'''
+Stworzone przez Gofio Design. Niezależny projekt, niezwiązany z wymienionymi usługami.'''
 
 D['tr'] = f'''Herhangi bir yapay zekâyla yaptığınız sohbetleri temiz ve okunaklı bir görünümde PDF olarak kaydedin veya yazdırın: menü, düğme ve kenar çubuğu olmadan.
 
@@ -489,7 +489,7 @@ AÇIK KAYNAK
 {REPO}
 Bir yapay zekâ sitesi düzgün görünmezse (siteler sık değişir), issues sayfasından bildirin, düzeltelim.
 
-Gofio Design tarafından geliştirilmiştir. Bağımsız bir projedir; OpenAI, Anthropic, Google, Microsoft veya adı geçen diğer hizmetlerle ilişkisi yoktur.'''
+Gofio Design tarafından geliştirilmiştir. Bağımsız bir projedir; adı geçen hizmetlerle ilişkisi yoktur.'''
 
 D['ru'] = f'''Сохраняйте в PDF или печатайте диалоги с любым ИИ в чистом, удобном для чтения виде: без меню, кнопок и боковых панелей.
 
@@ -537,7 +537,7 @@ D['ru'] = f'''Сохраняйте в PDF или печатайте диалог
 {REPO}
 Если какой-то ИИ перестал отображаться правильно (их сайты часто меняются), сообщите на странице issues, и мы всё исправим.
 
-Разработано Gofio Design. Независимый проект, не связанный с OpenAI, Anthropic, Google, Microsoft и другими упомянутыми сервисами.'''
+Разработано Gofio Design. Независимый проект, не связанный с упомянутыми сервисами.'''
 
 D['ja'] = f'''あらゆる AI との会話を、メニューやボタン、サイドバーのない、すっきり読みやすい表示で PDF に保存・印刷できます。
 
@@ -585,7 +585,7 @@ D['ja'] = f'''あらゆる AI との会話を、メニューやボタン、サ�
 {REPO}
 AI サイトの表示が崩れたら（サイトはよく変わります）、issues ページでお知らせください。修正します。
 
-開発: Gofio Design。独立したプロジェクトであり、OpenAI、Anthropic、Google、Microsoft、その他記載のサービスとは関係ありません。'''
+開発: Gofio Design。独立したプロジェクトであり、記載のサービスとは関係ありません。'''
 
 D['ko'] = f'''어떤 AI와의 대화든 메뉴, 버튼, 사이드바 없이 깔끔하고 읽기 쉬운 화면으로 PDF로 저장하거나 인쇄하세요.
 
@@ -633,7 +633,7 @@ D['ko'] = f'''어떤 AI와의 대화든 메뉴, 버튼, 사이드바 없이 깔�
 {REPO}
 AI 사이트가 제대로 보이지 않으면(사이트는 자주 바뀝니다) issues 페이지에 알려 주세요. 고쳐 드리겠습니다.
 
-개발: Gofio Design. 독립 프로젝트이며 OpenAI, Anthropic, Google, Microsoft 및 언급된 기타 서비스와 관련이 없습니다.'''
+개발: Gofio Design. 독립 프로젝트이며 언급된 서비스와 관련이 없습니다.'''
 
 D['zh_CN'] = f'''以简洁易读的视图，将你与任何 AI 的对话保存为 PDF 或打印：没有菜单、按钮和侧边栏。
 
@@ -681,7 +681,7 @@ D['zh_CN'] = f'''以简洁易读的视图，将你与任何 AI 的对话保存�
 {REPO}
 如果某个 AI 网站显示不正常（这些网站经常改版），请在 issues 页面告诉我们，我们会修复。
 
-由 Gofio Design 开发。独立项目，与 OpenAI、Anthropic、Google、Microsoft 及其他提及的服务无关。'''
+由 Gofio Design 开发。独立项目，与所提及的服务无关。'''
 
 D['zh_TW'] = f'''以簡潔易讀的檢視，將你與任何 AI 的對話儲存為 PDF 或列印：沒有選單、按鈕和側邊欄。
 
@@ -729,7 +729,27 @@ D['zh_TW'] = f'''以簡潔易讀的檢視，將你與任何 AI 的對話儲存�
 {REPO}
 如果某個 AI 網站顯示不正常（這些網站經常改版），請在 issues 頁面告訴我們，我們會修正。
 
-由 Gofio Design 開發。獨立專案，與 OpenAI、Anthropic、Google、Microsoft 及其他提及的服務無關。'''
+由 Gofio Design 開發。獨立專案，與所提及的服務無關。'''
+
+WORKS = {
+ 'es': '• Los principales asistentes de IA, como ChatGPT, Claude o Gemini.',
+ 'en': '• The main AI assistants, such as ChatGPT, Claude or Gemini.',
+ 'fr': '• Les principaux assistants d’IA, comme ChatGPT, Claude ou Gemini.',
+ 'de': '• Den wichtigsten KI-Assistenten, etwa ChatGPT, Claude oder Gemini.',
+ 'it': '• I principali assistenti di IA, come ChatGPT, Claude o Gemini.',
+ 'pt_BR': '• Os principais assistentes de IA, como ChatGPT, Claude ou Gemini.',
+ 'pt_PT': '• Os principais assistentes de IA, como o ChatGPT, o Claude ou o Gemini.',
+ 'nl': '• De belangrijkste AI-assistenten, zoals ChatGPT, Claude of Gemini.',
+ 'pl': '• Najważniejszymi asystentami AI, takimi jak ChatGPT, Claude czy Gemini.',
+ 'tr': '• ChatGPT, Claude veya Gemini gibi başlıca yapay zekâ asistanları.',
+ 'ru': '• Основными ИИ-ассистентами, например ChatGPT, Claude или Gemini.',
+ 'ja': '• ChatGPT、Claude、Gemini などの主要な AI アシスタント。',
+ 'ko': '• ChatGPT, Claude, Gemini 같은 주요 AI 어시스턴트.',
+ 'zh_CN': '• 主流 AI 助手，例如 ChatGPT、Claude 或 Gemini。',
+ 'zh_TW': '• 主流 AI 助理，例如 ChatGPT、Claude 或 Gemini。',
+}
+for _k in D:
+    D[_k] = D[_k].replace(SITES, WORKS[_k])
 
 NAMES = {'es': 'Español', 'en': 'English', 'fr': 'Français (French)', 'de': 'Deutsch (German)', 'it': 'Italiano (Italian)',
          'pt_BR': 'Português – Brasil', 'pt_PT': 'Português – Portugal', 'nl': 'Nederlands (Dutch)', 'pl': 'Polski (Polish)',

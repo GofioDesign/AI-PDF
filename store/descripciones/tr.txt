@@ -3,14 +3,7 @@ Herhangi bir yapay zekâyla yaptığınız sohbetleri temiz ve okunaklı bir gö
 Önceden yalnızca ChatGPT ile çalışıyordu; 2.0 sürümünden beri başlıca yapay zekâlarla ve her web sayfasıyla çalışır.
 
 ŞUNLARLA ÇALIŞIR
-• ChatGPT
-• Claude
-• Gemini
-• Microsoft Copilot
-• Perplexity
-• DeepSeek
-• Grok
-• Le Chat (Mistral)
+• ChatGPT, Claude veya Gemini gibi başlıca yapay zekâ asistanları.
 • Diğer tüm siteler: sayfanın ana içeriğini yazdırır.
 • Seçili metin: bir bölümü seçerseniz yalnızca o bölüm yazdırılır.
 
@@ -51,4 +44,4 @@ AÇIK KAYNAK
 https://github.com/GofioDesign/AI-PDF
 Bir yapay zekâ sitesi düzgün görünmezse (siteler sık değişir), issues sayfasından bildirin, düzeltelim.
 
-Gofio Design tarafından geliştirilmiştir. Bağımsız bir projedir; OpenAI, Anthropic, Google, Microsoft veya adı geçen diğer hizmetlerle ilişkisi yoktur.
+Gofio Design tarafından geliştirilmiştir. Bağımsız bir projedir; adı geçen hizmetlerle ilişkisi yoktur.

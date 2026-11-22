@@ -3,14 +3,7 @@
 以前は ChatGPT 専用でしたが、バージョン 2.0 から主要な AI とあらゆるウェブページに対応しました。
 
 対応サービス
-• ChatGPT
-• Claude
-• Gemini
-• Microsoft Copilot
-• Perplexity
-• DeepSeek
-• Grok
-• Le Chat (Mistral)
+• ChatGPT、Claude、Gemini などの主要な AI アシスタント。
 • そのほかのサイト: ページのメインコンテンツを印刷します。
 • 選択したテキスト: 一部を選択すると、その部分だけを印刷します。
 
@@ -51,4 +44,4 @@
 https://github.com/GofioDesign/AI-PDF
 AI サイトの表示が崩れたら（サイトはよく変わります）、issues ページでお知らせください。修正します。
 
-開発: Gofio Design。独立したプロジェクトであり、OpenAI、Anthropic、Google、Microsoft、その他記載のサービスとは関係ありません。
+開発: Gofio Design。独立したプロジェクトであり、記載のサービスとは関係ありません。
