@@ -48,7 +48,7 @@ PRIVACIDADE
 A extensão só lê o separador quando clica no ícone. Tudo é processado no seu navegador: as suas conversas não são enviadas para nenhum servidor, sem estatísticas nem serviços de terceiros. Só guarda no seu navegador as suas preferências e um contador de utilizações, para o convidar de vez em quando a avaliá-la ou a fazer um donativo (sempre opcional).
 
 CÓDIGO ABERTO
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 Se alguma IA deixar de aparecer bem (os sites mudam com frequência), avise na página de issues e corrigimos.
 
 Desenvolvido por Gofio Design. Projeto independente, sem relação com a OpenAI, Anthropic, Google, Microsoft nem os restantes serviços mencionados.

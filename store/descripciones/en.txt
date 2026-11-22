@@ -48,7 +48,7 @@ PRIVACY
 The extension only reads the tab when you click the icon. Everything is processed in your browser: your conversations are never sent to any server, and there are no analytics or third-party services. It only stores your preferences and a usage counter in your browser, to occasionally invite you to rate it or donate (always optional).
 
 OPEN SOURCE
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 If an AI site stops looking right (they change often), let us know on the issues page and we'll fix it.
 
 Made by Gofio Design. Independent project, not affiliated with OpenAI, Anthropic, Google, Microsoft or the other services mentioned.

@@ -48,7 +48,7 @@
 只有在你点击图标时，扩展程序才会读取标签页。所有处理都在浏览器中完成：你的对话不会发送到任何服务器，也不使用分析工具或第三方服务。浏览器中只保存你的设置和使用次数计数，用于偶尔邀请你评分或捐助（始终自愿）。
 
 开源
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 如果某个 AI 网站显示不正常（这些网站经常改版），请在 issues 页面告诉我们，我们会修复。
 
 由 Gofio Design 开发。独立项目，与 OpenAI、Anthropic、Google、Microsoft 及其他提及的服务无关。

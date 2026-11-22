@@ -5,7 +5,7 @@
   "description": "__MSG_extDescription__",
   "version": "2.0.0",
   "default_locale": "es",
-  "homepage_url": "https://github.com/GofioDesign/ai-chat-print",
+  "homepage_url": "https://github.com/GofioDesign/AI-PDF",
   "permissions": ["activeTab", "scripting", "storage"],
   "background": {
     "service_worker": "background.js"

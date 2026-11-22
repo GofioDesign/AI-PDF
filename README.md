@@ -47,12 +47,12 @@ No recoge, envía ni guarda ningún dato. Solo lee la pestaña en el momento en 
 
 ## Si una IA deja de funcionar
 
-Las webs de IA cambian a menudo. Si en alguna sale vacío o mal, abre un [issue](https://github.com/GofioDesign/ai-chat-print/issues) con el nombre del sitio. Los adaptadores están en `extension/extract.js`.
+Las webs de IA cambian a menudo. Si en alguna sale vacío o mal, abre un [issue](https://github.com/GofioDesign/AI-PDF/issues) con el nombre del sitio. Los adaptadores están en `extension/extract.js`.
 
 ## Publicar una versión nueva
 
 ```bash
-./build.sh   # genera dist/ai-chat-print-<versión>.zip para la Chrome Web Store
+./build.sh   # genera dist/ai-pdf-<versión>.zip para la Chrome Web Store
 ```
 
 ## Créditos

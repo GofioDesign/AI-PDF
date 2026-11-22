@@ -48,7 +48,7 @@ CONFIDENTIALITÉ
 L’extension ne lit l’onglet que lorsque vous cliquez sur l’icône. Tout est traité dans votre navigateur : vos conversations ne sont envoyées à aucun serveur, sans statistiques ni services tiers. Elle enregistre seulement dans votre navigateur vos préférences et un compteur d’utilisation, pour vous inviter de temps en temps à la noter ou à faire un don (toujours facultatif).
 
 CODE OUVERT
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 Si une IA ne s’affiche plus correctement (leurs sites changent souvent), signalez-le sur la page des issues et nous corrigerons.
 
 Développée par Gofio Design. Projet indépendant, sans lien avec OpenAI, Anthropic, Google, Microsoft ni les autres services mentionnés.

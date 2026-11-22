@@ -48,7 +48,7 @@ GİZLİLİK
 Uzantı sekmeyi yalnızca simgeye tıkladığınızda okur. Her şey tarayıcınızda işlenir: sohbetleriniz hiçbir sunucuya gönderilmez, analiz veya üçüncü taraf hizmeti yoktur. Tarayıcınızda yalnızca tercihlerinizi ve bir kullanım sayacını saklar; bunu ara sıra sizi değerlendirmeye veya bağışa davet etmek için kullanır (her zaman isteğe bağlı).
 
 AÇIK KAYNAK
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 Bir yapay zekâ sitesi düzgün görünmezse (siteler sık değişir), issues sayfasından bildirin, düzeltelim.
 
 Gofio Design tarafından geliştirilmiştir. Bağımsız bir projedir; OpenAI, Anthropic, Google, Microsoft veya adı geçen diğer hizmetlerle ilişkisi yoktur.

@@ -48,7 +48,7 @@
 只有在你點選圖示時，擴充功能才會讀取分頁。所有處理都在瀏覽器中完成：你的對話不會傳送到任何伺服器，也不使用分析工具或第三方服務。瀏覽器中只儲存你的設定和使用次數計數，用於偶爾邀請你評分或捐款（始終自願）。
 
 開放原始碼
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 如果某個 AI 網站顯示不正常（這些網站經常改版），請在 issues 頁面告訴我們，我們會修正。
 
 由 Gofio Design 開發。獨立專案，與 OpenAI、Anthropic、Google、Microsoft 及其他提及的服務無關。

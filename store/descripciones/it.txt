@@ -48,7 +48,7 @@ PRIVACY
 L’estensione legge la scheda solo quando fai clic sull’icona. Tutto viene elaborato nel tuo browser: le conversazioni non vengono inviate a nessun server, senza statistiche né servizi di terzi. Salva nel tuo browser solo le tue preferenze e un contatore di utilizzi, per invitarti ogni tanto a valutarla o a fare una donazione (sempre facoltativo).
 
 CODICE APERTO
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 Se un’IA non si vede più bene (i loro siti cambiano spesso), segnalacelo nella pagina delle issue e lo sistemiamo.
 
 Sviluppata da Gofio Design. Progetto indipendente, senza legami con OpenAI, Anthropic, Google, Microsoft né gli altri servizi citati.

@@ -48,7 +48,7 @@ PRYWATNOŚĆ
 Rozszerzenie odczytuje kartę tylko po kliknięciu ikony. Wszystko jest przetwarzane w przeglądarce: rozmowy nie są wysyłane na żaden serwer, bez statystyk i usług zewnętrznych. W przeglądarce zapisuje tylko Twoje ustawienia i licznik użyć, aby od czasu do czasu zaprosić Cię do oceny lub darowizny (zawsze dobrowolnie).
 
 OTWARTY KOD
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 Jeśli jakaś AI przestanie się dobrze wyświetlać (ich strony często się zmieniają), zgłoś to na stronie issues, a to naprawimy.
 
 Stworzone przez Gofio Design. Niezależny projekt, niezwiązany z OpenAI, Anthropic, Google, Microsoft ani innymi wymienionymi usługami.

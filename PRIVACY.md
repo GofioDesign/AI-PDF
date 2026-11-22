@@ -29,7 +29,7 @@ Estos datos nunca salen de tu navegador: no se envían a Gofio Design ni a nadie
 
 ## Contacto
 
-https://github.com/GofioDesign/ai-chat-print/issues
+https://github.com/GofioDesign/AI-PDF/issues
 
 ---
 

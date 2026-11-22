@@ -3,7 +3,7 @@
 > Última actualización: 2026-11-22 · Versión 2.0.0
 > Elemento existente: `debjfadjodahfmiabgdclllhgoggaiap` (antes «ChatGPT → Vista limpia + impresión», v1.5.1)
 
-**Cómo subirla:** en la consola de desarrollador abre el elemento existente → **Package → Upload new package** → `dist/ai-chat-print-2.0.0.zip`. No crees un elemento nuevo, para conservar usuarios, valoraciones e ID.
+**Cómo subirla:** en la consola de desarrollador abre el elemento existente → **Package → Upload new package** → `dist/ai-pdf-2.0.0.zip`. No crees un elemento nuevo, para conservar usuarios, valoraciones e ID.
 
 ---
 
@@ -66,7 +66,7 @@ PRIVACIDAD
 La extensión solo lee la pestaña cuando tú pulsas el icono. Todo se procesa en tu navegador: no envía tus conversaciones a ningún servidor, no usa analítica ni servicios de terceros. Solo guarda en tu navegador tus preferencias y un contador de usos para invitarte, de vez en cuando, a valorarla o a donar (siempre voluntario).
 
 CÓDIGO ABIERTO
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 
 Si alguna IA deja de verse bien (cambian su web a menudo), avísanos en la página de issues y lo arreglamos.
 
@@ -89,7 +89,7 @@ How to use: open the chat, click the extension icon (or Alt+Shift+P), then "Prin
 
 Privacy: it only reads the tab when you click the icon. Everything is processed in your browser; nothing is sent anywhere.
 
-Open source: https://github.com/GofioDesign/ai-chat-print
+Open source: https://github.com/GofioDesign/AI-PDF
 Independent project, not affiliated with OpenAI, Anthropic, Google, Microsoft or the other services mentioned.
 ```
 
@@ -101,8 +101,8 @@ Independent project, not affiliated with OpenAI, Anthropic, Google, Microsoft or
 - Capturas 1280×800 → `store/screenshot-3.png` (primera), `store/screenshot-1.png`, `store/screenshot-2.png`
 - Mosaico pequeño 440×280 → `store/promo-tile-440x280.png`
 
-**Homepage URL:** https://github.com/GofioDesign/ai-chat-print
-**Support URL:** https://github.com/GofioDesign/ai-chat-print/issues
+**Homepage URL:** https://github.com/GofioDesign/AI-PDF
+**Support URL:** https://github.com/GofioDesign/AI-PDF/issues
 
 ---
 
@@ -136,7 +136,7 @@ Stores locally the user's print-view preferences (font size, compact mode, foote
 
 **Privacy policy URL**
 ```
-https://github.com/GofioDesign/ai-chat-print/blob/main/PRIVACY.md
+https://github.com/GofioDesign/AI-PDF/blob/main/PRIVACY.md
 ```
 
 ---

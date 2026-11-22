@@ -48,7 +48,7 @@ DATENSCHUTZ
 Die Erweiterung liest den Tab nur, wenn Sie auf das Symbol klicken. Alles wird in Ihrem Browser verarbeitet: Ihre Gespräche werden an keinen Server gesendet, ohne Analysen oder Drittanbieterdienste. Sie speichert nur in Ihrem Browser Ihre Einstellungen und einen Nutzungszähler, um Sie gelegentlich um eine Bewertung oder eine Spende zu bitten (immer freiwillig).
 
 OPEN SOURCE
-https://github.com/GofioDesign/ai-chat-print
+https://github.com/GofioDesign/AI-PDF
 Wenn eine KI nicht mehr richtig dargestellt wird (ihre Websites ändern sich oft), melden Sie es auf der Issues-Seite und wir beheben es.
 
 Entwickelt von Gofio Design. Unabhängiges Projekt, ohne Verbindung zu OpenAI, Anthropic, Google, Microsoft oder den anderen genannten Diensten.

@@ -4,7 +4,7 @@
 import os, html
 
 SITES = '• ChatGPT\n• Claude\n• Gemini\n• Microsoft Copilot\n• Perplexity\n• DeepSeek\n• Grok\n• Le Chat (Mistral)'
-REPO = 'https://github.com/GofioDesign/ai-chat-print'
+REPO = 'https://github.com/GofioDesign/AI-PDF'
 LANGS_LINE = {
  'es': 'Español, inglés, francés, alemán, italiano, portugués (Brasil y Portugal), neerlandés, polaco, turco, ruso, japonés, coreano y chino (simplificado y tradicional).',
 }
