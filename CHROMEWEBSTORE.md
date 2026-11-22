@@ -52,6 +52,7 @@ AJUSTES ANTES DE IMPRIMIR
 • Tema oscuro para leer en pantalla.
 
 CÓMO SE USA
+0. Fija la extensión en la barra (icono de la pieza de puzle → chincheta). Al instalarla verás una pantalla que te lo explica.
 1. Abre la conversación.
 2. Pulsa el icono de la extensión (o Alt+Shift+P).
 3. Revisa la vista limpia que se abre en una pestaña nueva.
@@ -140,5 +141,5 @@ https://github.com/GofioDesign/ai-chat-print/blob/main/PRIVACY.md
 
 | Versión | Fecha | Cambios | Estado |
 |---|---|---|---|
-| 2.0.0 | 2026-11-22 | Reescritura: soporte para varias IAs, cualquier web y selección; recorre chats largos; opciones de vista; sin permisos de host | Borrador |
+| 2.0.0 | 2026-11-22 | Pantalla de bienvenida (es/en) al instalar y al actualizar desde la 1.x; icono nuevo. Reescritura: soporte para varias IAs, cualquier web y selección; recorre chats largos; opciones de vista; sin permisos de host | Borrador |
 | 1.5.1 | 2025-09-29 | Versión anterior (solo ChatGPT) | Publicada |

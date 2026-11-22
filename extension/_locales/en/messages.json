@@ -1,26 +1,124 @@
 {
-  "extName": { "message": "AI Chats → Clean View + PDF" },
-  "extShortName": { "message": "AI → PDF" },
-  "extDescription": { "message": "Print or save as PDF your ChatGPT, Claude, Gemini, Copilot and other AI conversations in a clean view with highlighted code." },
-  "actionTitle": { "message": "Print this conversation (Alt+Shift+P)" },
-  "badgeError": { "message": "This page can't be printed" },
-  "printTitle": { "message": "Print view" },
-  "printButton": { "message": "Print / Save PDF" },
-  "optPrompts": { "message": "Show my messages" },
-  "optLabels": { "message": "Show who is speaking" },
-  "optCompact": { "message": "Compact" },
-  "optDark": { "message": "Dark theme on screen" },
-  "optFont": { "message": "Size" },
-  "fontSmall": { "message": "Small" },
-  "fontNormal": { "message": "Normal" },
-  "fontLarge": { "message": "Large" },
-  "roleUser": { "message": "You" },
-  "roleAssistant": { "message": "AI" },
-  "roleContent": { "message": "Content" },
-  "messagesCount": { "message": "$COUNT$ messages", "placeholders": { "count": { "content": "$1" } } },
-  "modeSelection": { "message": "Selected text" },
-  "modePage": { "message": "Page content (site not recognised)" },
-  "notFound": { "message": "Conversation not found. Click the extension icon again on the chat tab." },
-  "printHint": { "message": "In the print dialog choose \"Save as PDF\" as the destination." },
-  "source": { "message": "Source" }
+  "extName": {
+    "message": "AI Chats → Clean View + PDF"
+  },
+  "extShortName": {
+    "message": "AI → PDF"
+  },
+  "extDescription": {
+    "message": "Print or save as PDF your ChatGPT, Claude, Gemini, Copilot and other AI conversations in a clean view with highlighted code."
+  },
+  "actionTitle": {
+    "message": "Print this conversation (Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "This page can't be printed"
+  },
+  "printTitle": {
+    "message": "Print view"
+  },
+  "printButton": {
+    "message": "Print / Save PDF"
+  },
+  "optPrompts": {
+    "message": "Show my messages"
+  },
+  "optLabels": {
+    "message": "Show who is speaking"
+  },
+  "optCompact": {
+    "message": "Compact"
+  },
+  "optDark": {
+    "message": "Dark theme on screen"
+  },
+  "optFont": {
+    "message": "Size"
+  },
+  "fontSmall": {
+    "message": "Small"
+  },
+  "fontNormal": {
+    "message": "Normal"
+  },
+  "fontLarge": {
+    "message": "Large"
+  },
+  "roleUser": {
+    "message": "You"
+  },
+  "roleAssistant": {
+    "message": "AI"
+  },
+  "roleContent": {
+    "message": "Content"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ messages",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Selected text"
+  },
+  "modePage": {
+    "message": "Page content (site not recognised)"
+  },
+  "notFound": {
+    "message": "Conversation not found. Click the extension icon again on the chat tab."
+  },
+  "printHint": {
+    "message": "In the print dialog choose \"Save as PDF\" as the destination."
+  },
+  "source": {
+    "message": "Source"
+  },
+  "welcomeKicker": {
+    "message": "Installed and ready"
+  },
+  "welcomeLead": {
+    "message": "Save as PDF or print your conversations with any AI in a clean view, without menus or buttons. Here is how, in three steps:"
+  },
+  "artExtensions": {
+    "message": "Extensions"
+  },
+  "step1Title": {
+    "message": "Pin the extension to the toolbar"
+  },
+  "step1Text": {
+    "message": "Click the <strong>puzzle piece</strong> icon at the top right of Chrome, then the <strong>pin</strong> next to “AI → PDF”. The icon will then always be visible."
+  },
+  "step2Title": {
+    "message": "Open the chat and click the icon"
+  },
+  "step2Text": {
+    "message": "Load the conversation you want to save on the AI's website and click the extension icon. It goes through the whole chat, even long ones."
+  },
+  "step3Title": {
+    "message": "Save the PDF"
+  },
+  "step3Text": {
+    "message": "A tab opens with the clean view. Adjust what you like (title, size, show or hide your messages) and click <strong>Print / Save PDF</strong>. As the destination choose “Save as PDF”."
+  },
+  "tipsTitle": {
+    "message": "Tips"
+  },
+  "tipShortcut": {
+    "message": "Keyboard shortcut: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (on Mac, <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "If you select some text before clicking the icon, only that part is printed."
+  },
+  "tipOther": {
+    "message": "On websites that aren't AI chats, it prints the main content of the page."
+  },
+  "welcomePrivacy": {
+    "message": "The extension only reads the tab when you click the icon. Everything is processed in your browser and nothing is sent to any server."
+  },
+  "welcomeRepo": {
+    "message": "Open source on GitHub"
+  }
 }

@@ -1,5 +1,18 @@
 // Chats de IA → Vista limpia + PDF — service worker
 
+// Pantalla de bienvenida: al instalar, y al actualizar desde la 1.x
+// (los usuarios de la versión anterior descubren que ahora vale para cualquier IA).
+chrome.runtime.onInstalled.addListener(async ({ reason, previousVersion }) => {
+  const fromV1 = reason === 'update' && /^1\./.test(previousVersion || '');
+  if (reason === 'install' || fromV1) {
+    try {
+      await chrome.tabs.create({ url: chrome.runtime.getURL('welcome/welcome.html') });
+    } catch (err) {
+      console.warn(err);
+    }
+  }
+});
+
 async function flashError(tabId) {
   try {
     await chrome.action.setBadgeBackgroundColor({ color: '#d93025', tabId });

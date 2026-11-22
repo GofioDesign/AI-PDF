@@ -1,26 +1,124 @@
 {
-  "extName": { "message": "Chats de IA → Vista limpia + PDF" },
-  "extShortName": { "message": "IA → PDF" },
-  "extDescription": { "message": "Imprime o guarda en PDF tus conversaciones de ChatGPT, Claude, Gemini, Copilot y otras IAs en una vista limpia, con código resaltado." },
-  "actionTitle": { "message": "Imprimir esta conversación (Alt+Shift+P)" },
-  "badgeError": { "message": "No se puede imprimir esta página" },
-  "printTitle": { "message": "Vista de impresión" },
-  "printButton": { "message": "Imprimir / Guardar PDF" },
-  "optPrompts": { "message": "Mostrar mis mensajes" },
-  "optLabels": { "message": "Mostrar quién habla" },
-  "optCompact": { "message": "Compacto" },
-  "optDark": { "message": "Tema oscuro en pantalla" },
-  "optFont": { "message": "Tamaño" },
-  "fontSmall": { "message": "Pequeño" },
-  "fontNormal": { "message": "Normal" },
-  "fontLarge": { "message": "Grande" },
-  "roleUser": { "message": "Tú" },
-  "roleAssistant": { "message": "IA" },
-  "roleContent": { "message": "Contenido" },
-  "messagesCount": { "message": "$COUNT$ mensajes", "placeholders": { "count": { "content": "$1" } } },
-  "modeSelection": { "message": "Texto seleccionado" },
-  "modePage": { "message": "Contenido de la página (sitio no reconocido)" },
-  "notFound": { "message": "No se ha encontrado la conversación. Vuelve a pulsar el icono de la extensión en la pestaña del chat." },
-  "printHint": { "message": "En el diálogo de impresión elige «Guardar como PDF» como destino." },
-  "source": { "message": "Fuente" }
+  "extName": {
+    "message": "Chats de IA → Vista limpia + PDF"
+  },
+  "extShortName": {
+    "message": "IA → PDF"
+  },
+  "extDescription": {
+    "message": "Imprime o guarda en PDF tus conversaciones de ChatGPT, Claude, Gemini, Copilot y otras IAs en una vista limpia, con código resaltado."
+  },
+  "actionTitle": {
+    "message": "Imprimir esta conversación (Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "No se puede imprimir esta página"
+  },
+  "printTitle": {
+    "message": "Vista de impresión"
+  },
+  "printButton": {
+    "message": "Imprimir / Guardar PDF"
+  },
+  "optPrompts": {
+    "message": "Mostrar mis mensajes"
+  },
+  "optLabels": {
+    "message": "Mostrar quién habla"
+  },
+  "optCompact": {
+    "message": "Compacto"
+  },
+  "optDark": {
+    "message": "Tema oscuro en pantalla"
+  },
+  "optFont": {
+    "message": "Tamaño"
+  },
+  "fontSmall": {
+    "message": "Pequeño"
+  },
+  "fontNormal": {
+    "message": "Normal"
+  },
+  "fontLarge": {
+    "message": "Grande"
+  },
+  "roleUser": {
+    "message": "Tú"
+  },
+  "roleAssistant": {
+    "message": "IA"
+  },
+  "roleContent": {
+    "message": "Contenido"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ mensajes",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Texto seleccionado"
+  },
+  "modePage": {
+    "message": "Contenido de la página (sitio no reconocido)"
+  },
+  "notFound": {
+    "message": "No se ha encontrado la conversación. Vuelve a pulsar el icono de la extensión en la pestaña del chat."
+  },
+  "printHint": {
+    "message": "En el diálogo de impresión elige «Guardar como PDF» como destino."
+  },
+  "source": {
+    "message": "Fuente"
+  },
+  "welcomeKicker": {
+    "message": "Ya está instalada"
+  },
+  "welcomeLead": {
+    "message": "Guarda en PDF o imprime tus conversaciones con cualquier IA en una vista limpia, sin menús ni botones. Así se usa, en tres pasos:"
+  },
+  "artExtensions": {
+    "message": "Extensiones"
+  },
+  "step1Title": {
+    "message": "Fija la extensión en la barra"
+  },
+  "step1Text": {
+    "message": "Pulsa el icono de la <strong>pieza de puzle</strong> arriba a la derecha de Chrome y después la <strong>chincheta</strong> junto a «IA → PDF». Así el icono quedará siempre visible."
+  },
+  "step2Title": {
+    "message": "Abre el chat y pulsa el icono"
+  },
+  "step2Text": {
+    "message": "Carga en la web de la IA la conversación que quieres guardar y pulsa el icono de la extensión. Recorrerá el chat completo, también si es largo."
+  },
+  "step3Title": {
+    "message": "Guarda el PDF"
+  },
+  "step3Text": {
+    "message": "Se abre una pestaña con la vista limpia. Ajusta lo que quieras (título, tamaño, mostrar u ocultar tus mensajes) y pulsa <strong>Imprimir / Guardar PDF</strong>. En el destino elige «Guardar como PDF»."
+  },
+  "tipsTitle": {
+    "message": "Trucos"
+  },
+  "tipShortcut": {
+    "message": "Atajo de teclado: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (en Mac, <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Si seleccionas un trozo de texto antes de pulsar el icono, se imprime solo esa parte."
+  },
+  "tipOther": {
+    "message": "En webs que no son chats de IA, imprime el contenido principal de la página."
+  },
+  "welcomePrivacy": {
+    "message": "La extensión solo lee la pestaña cuando pulsas el icono. Todo se procesa en tu navegador y nada se envía a ningún servidor."
+  },
+  "welcomeRepo": {
+    "message": "Código abierto en GitHub"
+  }
 }

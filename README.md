@@ -18,6 +18,9 @@ Si tienes **texto seleccionado**, imprime solo la selección, en cualquier web.
 
 ## Cómo se usa
 
+Al instalarla se abre una pantalla de bienvenida (en español o inglés, según tu Chrome) que explica estos pasos.
+
+0. **Fija la extensión**: icono de la pieza de puzle de Chrome → chincheta junto a «IA → PDF».
 1. Abre la conversación.
 2. Pulsa el icono de la extensión o usa **Alt+Shift+P**.
 3. Se abre una pestaña con la vista limpia. Ahí puedes:
