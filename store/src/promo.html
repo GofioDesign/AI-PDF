@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Segoe UI", system-ui, sans-serif; }
+  .frame { display: none; position: relative; overflow: hidden; }
+  body[data-v="3"] #s3, body[data-v="tile"] #tile { display: block; }
+  #s3 { width: 1280px; height: 800px; background: linear-gradient(140deg, #eaf2fe 0%, #f7f9fc 55%, #ffffff 100%); color: #1f2328; }
+  h1 { font-size: 56px; line-height: 1.07; letter-spacing: -1.2px; font-weight: 800; }
+  h1 em { color: #1a73e8; font-style: normal; }
+  .lead { font-size: 22px; color: #57606a; margin-top: 20px; line-height: 1.45; }
+  .chips { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 40px; }
+  .chip { background: #fff; border: 1px solid #d8dee4; border-radius: 999px; padding: 10px 20px; font-size: 19px; font-weight: 600; box-shadow: 0 2px 6px rgba(0,0,0,.04); }
+  .chip.more { background: none; border-style: dashed; color: #57606a; font-weight: 500; }
+  .steps { position: absolute; left: 80px; bottom: 70px; display: flex; gap: 34px; font-size: 18px; color: #57606a; }
+  .steps b { display: inline-grid; place-items: center; width: 30px; height: 30px; border-radius: 50%; background: #1a73e8; color: #fff; font-size: 15px; margin-right: 10px; }
+  .paper { position: absolute; right: 70px; top: 80px; width: 430px; height: 600px; background: #fff; border-radius: 10px; box-shadow: 0 30px 70px rgba(26,115,232,.18), 0 4px 14px rgba(0,0,0,.06); padding: 36px 34px; transform: rotate(2deg); }
+  .paper h2 { font-size: 22px; margin-bottom: 4px; }
+  .paper .m { font-size: 12px; color: #8b949e; border-bottom: 2px solid #eef1f4; padding-bottom: 12px; margin-bottom: 18px; }
+  .who { font: 700 10px/1 system-ui; letter-spacing: .08em; color: #8b949e; margin: 14px 0 6px; }
+  .who.ai { color: #1a73e8; }
+  .u { background: #f1f5fb; border-left: 3px solid #1a73e8; border-radius: 0 8px 8px 0; padding: 10px 12px; font-size: 13px; }
+  .l { height: 9px; border-radius: 5px; background: #e6e9ed; margin: 8px 0; }
+  .code { background: #f6f8fa; border: 1px solid #e1e5e9; border-radius: 8px; padding: 12px; margin: 12px 0; font: 12px/1.55 Consolas, monospace; color: #24292e; }
+  .k { color: #d73a49; } .s { color: #032f62; } .f { color: #6f42c1; }
+  .pdf { position: absolute; right: 50px; top: 600px; background: #d93025; color: #fff; font-weight: 800; font-size: 20px; padding: 14px 22px; border-radius: 12px; box-shadow: 0 12px 30px rgba(217,48,37,.35); transform: rotate(-4deg); }
+</style></head>
+<body>
+<section class="frame" id="s3">
+  <div style="position:absolute;left:80px;top:110px;width:640px">
+    <h1>Guarda tus chats de IA<br>en un <em>PDF limpio</em>.</h1>
+    <p class="lead">Sin menús, botones ni barras laterales. Con el código resaltado, tablas y fórmulas tal como las ves.</p>
+    <div class="chips">
+      <span class="chip">ChatGPT</span><span class="chip">Claude</span><span class="chip">Gemini</span>
+      <span class="chip">Copilot</span><span class="chip">Perplexity</span><span class="chip">DeepSeek</span>
+      <span class="chip">Grok</span><span class="chip">Le Chat</span><span class="chip more">y cualquier web</span>
+    </div>
+  </div>
+  <div class="steps"><span><b>1</b>Abre el chat</span><span><b>2</b>Pulsa el icono</span><span><b>3</b>Guarda como PDF</span></div>
+  <div class="paper">
+    <h2>Script para renombrar fotos</h2>
+    <div class="m">ChatGPT · 22 nov 2026 · 4 mensajes</div>
+    <div class="who">TÚ</div>
+    <div class="u">¿Me haces un script que renombre las fotos por fecha?</div>
+    <div class="who ai">CHATGPT</div>
+    <div class="l" style="width:92%"></div><div class="l" style="width:70%"></div>
+    <div class="code"><span class="k">from</span> pathlib <span class="k">import</span> Path<br><br><span class="k">for</span> f <span class="k">in</span> Path(<span class="s">'fotos'</span>).<span class="f">glob</span>(<span class="s">'*.jpg'</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;f.<span class="f">rename</span>(nuevo)</div>
+    <div class="l" style="width:85%"></div><div class="l" style="width:95%"></div><div class="l" style="width:60%"></div>
+    <div class="who">TÚ</div>
+    <div class="u">¿Y si dos fotos tienen la misma fecha?</div>
+    <div class="who ai">CHATGPT</div>
+    <div class="l" style="width:88%"></div><div class="l" style="width:52%"></div>
+  </div>
+  <div class="pdf">PDF</div>
+</section>
+
+<section class="frame" id="tile" style="width:440px;height:280px;background:linear-gradient(135deg,#1a73e8,#0b4fa8)">
+  <div style="position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:0 34px;color:#fff">
+    <img src="../../extension/icons/icon-128.png" style="width:58px;height:58px;margin-bottom:16px;border-radius:14px;box-shadow:0 0 0 3px rgba(255,255,255,.35)">
+    <div style="font-size:29px;font-weight:800;line-height:1.1">Chats de IA →<br>Vista limpia + PDF</div>
+    <div style="font-size:15px;opacity:.85;margin-top:8px">ChatGPT · Claude · Gemini · Copilot y más</div>
+  </div>
+</section>
+</body></html>

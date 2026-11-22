@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>…</title>
+  <link rel="stylesheet" href="../lib/hljs-github.css">
+  <link rel="stylesheet" href="print.css">
+</head>
+<body>
+  <div class="toolbar" id="toolbar">
+    <div class="toolbar-inner">
+      <img src="../icons/icon-32.png" alt="" width="22" height="22">
+      <label><input type="checkbox" id="optPrompts" checked> <span data-i18n="optPrompts"></span></label>
+      <label><input type="checkbox" id="optLabels" checked> <span data-i18n="optLabels"></span></label>
+      <label><input type="checkbox" id="optCompact"> <span data-i18n="optCompact"></span></label>
+      <label><input type="checkbox" id="optDark"> <span data-i18n="optDark"></span></label>
+      <label><span data-i18n="optFont"></span>
+        <select id="optFont">
+          <option value="small" data-i18n="fontSmall"></option>
+          <option value="normal" data-i18n="fontNormal" selected></option>
+          <option value="large" data-i18n="fontLarge"></option>
+        </select>
+      </label>
+      <button id="printBtn" type="button" data-i18n="printButton"></button>
+    </div>
+    <p class="hint" data-i18n="printHint"></p>
+  </div>
+
+  <main id="doc">
+    <header class="doc-head">
+      <h1 id="docTitle" contenteditable="true" spellcheck="false"></h1>
+      <p class="meta" id="docMeta"></p>
+    </header>
+    <div id="messages"></div>
+  </main>
+
+  <script src="../lib/highlight.min.js"></script>
+  <script src="print.js"></script>
+</body>
+</html>
