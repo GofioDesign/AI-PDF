@@ -16,7 +16,7 @@ FUNKTIONIERT MIT
 
 DAS BEKOMMEN SIE
 • Ihre Fragen und die Antworten, in Reihenfolge und klar getrennt.
-• Code mit Syntaxhervorhebung und Name der Sprache.
+• Code mit Syntaxhervorhebung und Name der Sprache, egal ob die Website Prism, Highlight.js oder etwas anderes nutzt.
 • Tabellen, Listen, Links, Bilder und mathematische Formeln.
 • Vollständige Gespräche, auch lange, die die Website stückweise lädt.
 • Ein immer klares, gut lesbares PDF, auch wenn Sie das dunkle Design nutzen.
@@ -37,6 +37,12 @@ SO GEHT ES
 2. Öffnen Sie das Gespräch auf der Website der KI.
 3. Klicken Sie auf das Symbol der Erweiterung (oder Alt+Umschalt+P).
 4. Prüfen Sie die saubere Ansicht, klicken Sie auf „Drucken / Als PDF speichern“ und wählen Sie „Als PDF speichern“.
+
+ANWENDUNGSFÄLLE
+• Fragen und Antworten zum Lernen aufbewahren.
+• Codebeispiele für Unterricht oder Workshops drucken.
+• Ein Gespräch für technische Dokumentation exportieren.
+• Ein sauberes PDF mit Kunden oder im Team teilen.
 
 DATENSCHUTZ
 Die Erweiterung liest den Tab nur, wenn Sie auf das Symbol klicken. Alles wird in Ihrem Browser verarbeitet: Ihre Gespräche werden an keinen Server gesendet, ohne Analysen oder Drittanbieterdienste. Sie speichert nur in Ihrem Browser Ihre Einstellungen und einen Nutzungszähler, um Sie gelegentlich um eine Bewertung oder eine Spende zu bitten (immer freiwillig).

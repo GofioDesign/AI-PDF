@@ -16,7 +16,7 @@ Herhangi bir yapay zekâyla yaptığınız sohbetleri temiz ve okunaklı bir gö
 
 NE ELDE EDERSİNİZ
 • Sorularınız ve yanıtlar, sırayla ve net biçimde ayrılmış.
-• Sözdizimi vurgulu kod ve dilin adı.
+• Site Prism, Highlight.js ya da başka bir sistem kullansın, sözdizimi vurgulu kod ve dilin adı.
 • Tablolar, listeler, bağlantılar, görseller ve matematik formülleri.
 • Sitenin parça parça yüklediği uzun sohbetler dâhil eksiksiz sohbetler.
 • Koyu tema kullansanız bile her zaman açık ve okunaklı bir PDF.
@@ -37,6 +37,12 @@ NASIL KULLANILIR
 2. Sohbeti yapay zekânın sitesinde açın.
 3. Uzantı simgesine tıklayın (veya Alt+Shift+P).
 4. Temiz görünümü kontrol edin, “Yazdır / PDF kaydet”e tıklayın ve “PDF olarak kaydet”i seçin.
+
+KULLANIM ÖRNEKLERİ
+• Çalışmak için soruları ve yanıtları saklayın.
+• Ders veya atölyeler için kod örnekleri yazdırın.
+• Teknik dokümantasyon için bir sohbeti dışa aktarın.
+• Müşterilerle veya ekiple temiz bir PDF paylaşın.
 
 GİZLİLİK
 Uzantı sekmeyi yalnızca simgeye tıkladığınızda okur. Her şey tarayıcınızda işlenir: sohbetleriniz hiçbir sunucuya gönderilmez, analiz veya üçüncü taraf hizmeti yoktur. Tarayıcınızda yalnızca tercihlerinizi ve bir kullanım sayacını saklar; bunu ara sıra sizi değerlendirmeye veya bağışa davet etmek için kullanır (her zaman isteğe bağlı).

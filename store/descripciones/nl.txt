@@ -16,7 +16,7 @@ WERKT MET
 
 WAT JE KRIJGT
 • Je vragen en de antwoorden, op volgorde en duidelijk gescheiden.
-• Code met syntaxismarkering en de naam van de taal.
+• Code met syntaxismarkering en de naam van de taal, of de site nu Prism, Highlight.js of iets anders gebruikt.
 • Tabellen, lijsten, links, afbeeldingen en wiskundige formules.
 • Volledige gesprekken, ook lange die de site in stukken laadt.
 • Een pdf die altijd helder en leesbaar is, ook als je het donkere thema gebruikt.
@@ -37,6 +37,12 @@ ZO GEBRUIK JE HET
 2. Open het gesprek op de website van de AI.
 3. Klik op het pictogram van de extensie (of Alt+Shift+P).
 4. Bekijk het overzicht, klik op ‘Afdrukken / Pdf opslaan’ en kies ‘Opslaan als pdf’.
+
+TOEPASSINGEN
+• Vragen en antwoorden bewaren om te studeren.
+• Codevoorbeelden afdrukken voor lessen of workshops.
+• Een gesprek exporteren voor technische documentatie.
+• Een strakke pdf delen met klanten of collega’s.
 
 PRIVACY
 De extensie leest het tabblad alleen als je op het pictogram klikt. Alles wordt in je browser verwerkt: je gesprekken worden naar geen enkele server gestuurd, zonder statistieken of diensten van derden. Ze bewaart in je browser alleen je voorkeuren en een gebruiksteller, om je af en toe te vragen haar te beoordelen of te doneren (altijd vrijwillig).

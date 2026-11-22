@@ -16,7 +16,7 @@ FONCTIONNE AVEC
 
 CE QUE VOUS OBTENEZ
 • Vos questions et les réponses, dans l’ordre et bien séparées.
-• Le code avec coloration syntaxique et le nom du langage.
+• Le code avec coloration syntaxique et le nom du langage, que le site utilise Prism, Highlight.js ou autre chose.
 • Tableaux, listes, liens, images et formules mathématiques.
 • Les conversations complètes, même les longues que le site charge par morceaux.
 • Un PDF toujours clair et lisible, même si vous utilisez le thème sombre.
@@ -37,6 +37,12 @@ MODE D’EMPLOI
 2. Ouvrez la conversation sur le site de l’IA.
 3. Cliquez sur l’icône de l’extension (ou Alt+Maj+P).
 4. Vérifiez la vue épurée, cliquez sur « Imprimer / Enregistrer en PDF » et choisissez « Enregistrer au format PDF ».
+
+CAS D’USAGE
+• Garder questions et réponses pour étudier.
+• Imprimer des exemples de code pour des cours ou des ateliers.
+• Exporter une conversation pour de la documentation technique.
+• Partager un PDF épuré avec des clients ou des collègues.
 
 CONFIDENTIALITÉ
 L’extension ne lit l’onglet que lorsque vous cliquez sur l’icône. Tout est traité dans votre navigateur : vos conversations ne sont envoyées à aucun serveur, sans statistiques ni services tiers. Elle enregistre seulement dans votre navigateur vos préférences et un compteur d’utilisation, pour vous inviter de temps en temps à la noter ou à faire un don (toujours facultatif).

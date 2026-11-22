@@ -16,7 +16,7 @@ FUNZIONA CON
 
 COSA OTTIENI
 • Le tue domande e le risposte, in ordine e ben separate.
-• Codice con evidenziazione della sintassi e il nome del linguaggio.
+• Codice con evidenziazione della sintassi e il nome del linguaggio, che il sito usi Prism, Highlight.js o altro.
 • Tabelle, elenchi, link, immagini e formule matematiche.
 • Conversazioni complete, anche quelle lunghe che il sito carica a pezzi.
 • Un PDF sempre chiaro e leggibile, anche se usi il tema scuro.
@@ -37,6 +37,12 @@ COME SI USA
 2. Apri la conversazione sul sito dell’IA.
 3. Fai clic sull’icona dell’estensione (o Alt+Maiusc+P).
 4. Controlla la vista pulita, fai clic su «Stampa / Salva PDF» e scegli «Salva come PDF».
+
+CASI D’USO
+• Conservare domande e risposte per studiare.
+• Stampare esempi di codice per lezioni o workshop.
+• Esportare una conversazione per documentazione tecnica.
+• Condividere un PDF pulito con clienti o colleghi.
 
 PRIVACY
 L’estensione legge la scheda solo quando fai clic sull’icona. Tutto viene elaborato nel tuo browser: le conversazioni non vengono inviate a nessun server, senza statistiche né servizi di terzi. Salva nel tuo browser solo le tue preferenze e un contatore di utilizzi, per invitarti ogni tanto a valutarla o a fare una donazione (sempre facoltativo).

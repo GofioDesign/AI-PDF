@@ -16,7 +16,7 @@ FUNCIONA COM
 
 O QUE OBTÉM
 • As suas perguntas e as respostas, por ordem e bem separadas.
-• Código com realce de sintaxe e o nome da linguagem.
+• Código com realce de sintaxe e o nome da linguagem, quer o site use Prism, Highlight.js ou outro sistema.
 • Tabelas, listas, ligações, imagens e fórmulas matemáticas.
 • Conversas completas, incluindo as longas que o site carrega por partes.
 • Um PDF sempre claro e legível, mesmo que use o tema escuro.
@@ -37,6 +37,12 @@ COMO USAR
 2. Abra a conversa no site da IA.
 3. Clique no ícone da extensão (ou Alt+Shift+P).
 4. Reveja a vista limpa, clique em «Imprimir / Guardar PDF» e escolha «Guardar como PDF».
+
+CASOS DE UTILIZAÇÃO
+• Guardar perguntas e respostas para estudar.
+• Imprimir exemplos de código para aulas ou workshops.
+• Exportar uma conversa para documentação técnica.
+• Partilhar um PDF limpo com clientes ou colegas.
 
 PRIVACIDADE
 A extensão só lê o separador quando clica no ícone. Tudo é processado no seu navegador: as suas conversas não são enviadas para nenhum servidor, sem estatísticas nem serviços de terceiros. Só guarda no seu navegador as suas preferências e um contador de utilizações, para o convidar de vez em quando a avaliá-la ou a fazer um donativo (sempre opcional).

@@ -16,7 +16,7 @@ WORKS WITH
 
 WHAT YOU GET
 • Your prompts and the answers, in order and clearly separated.
-• Syntax-highlighted code with the language name.
+• Syntax-highlighted code with the language name, whether the site uses Prism, Highlight.js or something else.
 • Tables, lists, links, images and math formulas.
 • Full conversations, including long ones the site loads in chunks.
 • A PDF that is always clean and readable, even if you use dark mode.
@@ -37,6 +37,12 @@ HOW TO USE
 2. Open the conversation on the AI's website.
 3. Click the extension icon (or Alt+Shift+P).
 4. Check the clean view, click "Print / Save PDF" and choose "Save as PDF".
+
+USE CASES
+• Keep questions and answers for study.
+• Print code examples for classes or workshops.
+• Export a conversation for technical documentation.
+• Share a clean PDF with clients or teammates.
 
 PRIVACY
 The extension only reads the tab when you click the icon. Everything is processed in your browser: your conversations are never sent to any server, and there are no analytics or third-party services. It only stores your preferences and a usage counter in your browser, to occasionally invite you to rate it or donate (always optional).

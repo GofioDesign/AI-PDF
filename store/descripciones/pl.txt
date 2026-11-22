@@ -16,7 +16,7 @@ DZIAŁA Z
 
 CO OTRZYMUJESZ
 • Twoje pytania i odpowiedzi, po kolei i wyraźnie oddzielone.
-• Kod z podświetlaniem składni i nazwą języka.
+• Kod z podświetlaniem składni i nazwą języka, niezależnie od tego, czy strona używa Prism, Highlight.js czy czegoś innego.
 • Tabele, listy, linki, obrazy i wzory matematyczne.
 • Pełne rozmowy, także długie, które strona wczytuje partiami.
 • Zawsze jasny i czytelny PDF, nawet jeśli używasz ciemnego motywu.
@@ -37,6 +37,12 @@ JAK UŻYWAĆ
 2. Otwórz rozmowę na stronie AI.
 3. Kliknij ikonę rozszerzenia (lub Alt+Shift+P).
 4. Sprawdź przejrzysty widok, kliknij „Drukuj / Zapisz PDF” i wybierz „Zapisz jako PDF”.
+
+ZASTOSOWANIA
+• Zachowywanie pytań i odpowiedzi do nauki.
+• Drukowanie przykładów kodu na zajęcia lub warsztaty.
+• Eksport rozmowy do dokumentacji technicznej.
+• Udostępnianie przejrzystego PDF klientom lub zespołowi.
 
 PRYWATNOŚĆ
 Rozszerzenie odczytuje kartę tylko po kliknięciu ikony. Wszystko jest przetwarzane w przeglądarce: rozmowy nie są wysyłane na żaden serwer, bez statystyk i usług zewnętrznych. W przeglądarce zapisuje tylko Twoje ustawienia i licznik użyć, aby od czasu do czasu zaprosić Cię do oceny lub darowizny (zawsze dobrowolnie).

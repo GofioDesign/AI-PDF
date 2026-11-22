@@ -22,7 +22,7 @@ FUNCIONA CON
 
 QUÉ OBTIENES
 • Tus preguntas y las respuestas, en orden y bien separadas.
-• Código con resaltado de sintaxis y el nombre del lenguaje.
+• Código con resaltado de sintaxis y el nombre del lenguaje, venga de webs que usan Prism, Highlight.js u otro sistema.
 • Tablas, listas, enlaces, imágenes y fórmulas matemáticas.
 • Conversaciones completas, también las largas que la web carga a trozos.
 • Un PDF siempre claro y legible, aunque uses el tema oscuro.
@@ -44,6 +44,12 @@ CÓMO SE USA
 3. Pulsa el icono de la extensión (o Alt+Shift+P).
 4. Revisa la vista limpia, pulsa «Imprimir / Guardar PDF» y elige «Guardar como PDF».
 
+CASOS DE USO
+• Guardar preguntas y respuestas para estudiar.
+• Imprimir ejemplos de código para clases o talleres.
+• Exportar una conversación para documentación técnica.
+• Compartir un PDF limpio con clientes o compañeros.
+
 PRIVACIDAD
 La extensión solo lee la pestaña cuando tú pulsas el icono. Todo se procesa en tu navegador: no envía tus conversaciones a ningún servidor, no usa analítica ni servicios de terceros. Solo guarda en tu navegador tus preferencias y un contador de usos para invitarte, de vez en cuando, a valorarla o a donar (siempre voluntario).
 
@@ -64,7 +70,7 @@ WORKS WITH
 
 WHAT YOU GET
 • Your prompts and the answers, in order and clearly separated.
-• Syntax-highlighted code with the language name.
+• Syntax-highlighted code with the language name, whether the site uses Prism, Highlight.js or something else.
 • Tables, lists, links, images and math formulas.
 • Full conversations, including long ones the site loads in chunks.
 • A PDF that is always clean and readable, even if you use dark mode.
@@ -86,6 +92,12 @@ HOW TO USE
 3. Click the extension icon (or Alt+Shift+P).
 4. Check the clean view, click "Print / Save PDF" and choose "Save as PDF".
 
+USE CASES
+• Keep questions and answers for study.
+• Print code examples for classes or workshops.
+• Export a conversation for technical documentation.
+• Share a clean PDF with clients or teammates.
+
 PRIVACY
 The extension only reads the tab when you click the icon. Everything is processed in your browser: your conversations are never sent to any server, and there are no analytics or third-party services. It only stores your preferences and a usage counter in your browser, to occasionally invite you to rate it or donate (always optional).
 
@@ -106,7 +118,7 @@ FONCTIONNE AVEC
 
 CE QUE VOUS OBTENEZ
 • Vos questions et les réponses, dans l’ordre et bien séparées.
-• Le code avec coloration syntaxique et le nom du langage.
+• Le code avec coloration syntaxique et le nom du langage, que le site utilise Prism, Highlight.js ou autre chose.
 • Tableaux, listes, liens, images et formules mathématiques.
 • Les conversations complètes, même les longues que le site charge par morceaux.
 • Un PDF toujours clair et lisible, même si vous utilisez le thème sombre.
@@ -128,6 +140,12 @@ MODE D’EMPLOI
 3. Cliquez sur l’icône de l’extension (ou Alt+Maj+P).
 4. Vérifiez la vue épurée, cliquez sur « Imprimer / Enregistrer en PDF » et choisissez « Enregistrer au format PDF ».
 
+CAS D’USAGE
+• Garder questions et réponses pour étudier.
+• Imprimer des exemples de code pour des cours ou des ateliers.
+• Exporter une conversation pour de la documentation technique.
+• Partager un PDF épuré avec des clients ou des collègues.
+
 CONFIDENTIALITÉ
 L’extension ne lit l’onglet que lorsque vous cliquez sur l’icône. Tout est traité dans votre navigateur : vos conversations ne sont envoyées à aucun serveur, sans statistiques ni services tiers. Elle enregistre seulement dans votre navigateur vos préférences et un compteur d’utilisation, pour vous inviter de temps en temps à la noter ou à faire un don (toujours facultatif).
 
@@ -148,7 +166,7 @@ FUNKTIONIERT MIT
 
 DAS BEKOMMEN SIE
 • Ihre Fragen und die Antworten, in Reihenfolge und klar getrennt.
-• Code mit Syntaxhervorhebung und Name der Sprache.
+• Code mit Syntaxhervorhebung und Name der Sprache, egal ob die Website Prism, Highlight.js oder etwas anderes nutzt.
 • Tabellen, Listen, Links, Bilder und mathematische Formeln.
 • Vollständige Gespräche, auch lange, die die Website stückweise lädt.
 • Ein immer klares, gut lesbares PDF, auch wenn Sie das dunkle Design nutzen.
@@ -170,6 +188,12 @@ SO GEHT ES
 3. Klicken Sie auf das Symbol der Erweiterung (oder Alt+Umschalt+P).
 4. Prüfen Sie die saubere Ansicht, klicken Sie auf „Drucken / Als PDF speichern“ und wählen Sie „Als PDF speichern“.
 
+ANWENDUNGSFÄLLE
+• Fragen und Antworten zum Lernen aufbewahren.
+• Codebeispiele für Unterricht oder Workshops drucken.
+• Ein Gespräch für technische Dokumentation exportieren.
+• Ein sauberes PDF mit Kunden oder im Team teilen.
+
 DATENSCHUTZ
 Die Erweiterung liest den Tab nur, wenn Sie auf das Symbol klicken. Alles wird in Ihrem Browser verarbeitet: Ihre Gespräche werden an keinen Server gesendet, ohne Analysen oder Drittanbieterdienste. Sie speichert nur in Ihrem Browser Ihre Einstellungen und einen Nutzungszähler, um Sie gelegentlich um eine Bewertung oder eine Spende zu bitten (immer freiwillig).
 
@@ -190,7 +214,7 @@ FUNZIONA CON
 
 COSA OTTIENI
 • Le tue domande e le risposte, in ordine e ben separate.
-• Codice con evidenziazione della sintassi e il nome del linguaggio.
+• Codice con evidenziazione della sintassi e il nome del linguaggio, che il sito usi Prism, Highlight.js o altro.
 • Tabelle, elenchi, link, immagini e formule matematiche.
 • Conversazioni complete, anche quelle lunghe che il sito carica a pezzi.
 • Un PDF sempre chiaro e leggibile, anche se usi il tema scuro.
@@ -212,6 +236,12 @@ COME SI USA
 3. Fai clic sull’icona dell’estensione (o Alt+Maiusc+P).
 4. Controlla la vista pulita, fai clic su «Stampa / Salva PDF» e scegli «Salva come PDF».
 
+CASI D’USO
+• Conservare domande e risposte per studiare.
+• Stampare esempi di codice per lezioni o workshop.
+• Esportare una conversazione per documentazione tecnica.
+• Condividere un PDF pulito con clienti o colleghi.
+
 PRIVACY
 L’estensione legge la scheda solo quando fai clic sull’icona. Tutto viene elaborato nel tuo browser: le conversazioni non vengono inviate a nessun server, senza statistiche né servizi di terzi. Salva nel tuo browser solo le tue preferenze e un contatore di utilizzi, per invitarti ogni tanto a valutarla o a fare una donazione (sempre facoltativo).
 
@@ -232,7 +262,7 @@ FUNCIONA COM
 
 O QUE VOCÊ RECEBE
 • Suas perguntas e as respostas, em ordem e bem separadas.
-• Código com destaque de sintaxe e o nome da linguagem.
+• Código com destaque de sintaxe e o nome da linguagem, seja o site com Prism, Highlight.js ou outro sistema.
 • Tabelas, listas, links, imagens e fórmulas matemáticas.
 • Conversas completas, inclusive as longas que o site carrega em partes.
 • Um PDF sempre claro e legível, mesmo se você usa o tema escuro.
@@ -254,6 +284,12 @@ COMO USAR
 3. Clique no ícone da extensão (ou Alt+Shift+P).
 4. Confira a visão limpa, clique em “Imprimir / Salvar PDF” e escolha “Salvar como PDF”.
 
+CASOS DE USO
+• Guardar perguntas e respostas para estudar.
+• Imprimir exemplos de código para aulas ou workshops.
+• Exportar uma conversa para documentação técnica.
+• Compartilhar um PDF limpo com clientes ou colegas.
+
 PRIVACIDADE
 A extensão só lê a aba quando você clica no ícone. Tudo é processado no seu navegador: suas conversas não são enviadas a nenhum servidor, sem análises nem serviços de terceiros. Ela só guarda no seu navegador suas preferências e um contador de usos, para convidar você de vez em quando a avaliá-la ou a doar (sempre opcional).
 
@@ -274,7 +310,7 @@ FUNCIONA COM
 
 O QUE OBTÉM
 • As suas perguntas e as respostas, por ordem e bem separadas.
-• Código com realce de sintaxe e o nome da linguagem.
+• Código com realce de sintaxe e o nome da linguagem, quer o site use Prism, Highlight.js ou outro sistema.
 • Tabelas, listas, ligações, imagens e fórmulas matemáticas.
 • Conversas completas, incluindo as longas que o site carrega por partes.
 • Um PDF sempre claro e legível, mesmo que use o tema escuro.
@@ -296,6 +332,12 @@ COMO USAR
 3. Clique no ícone da extensão (ou Alt+Shift+P).
 4. Reveja a vista limpa, clique em «Imprimir / Guardar PDF» e escolha «Guardar como PDF».
 
+CASOS DE UTILIZAÇÃO
+• Guardar perguntas e respostas para estudar.
+• Imprimir exemplos de código para aulas ou workshops.
+• Exportar uma conversa para documentação técnica.
+• Partilhar um PDF limpo com clientes ou colegas.
+
 PRIVACIDADE
 A extensão só lê o separador quando clica no ícone. Tudo é processado no seu navegador: as suas conversas não são enviadas para nenhum servidor, sem estatísticas nem serviços de terceiros. Só guarda no seu navegador as suas preferências e um contador de utilizações, para o convidar de vez em quando a avaliá-la ou a fazer um donativo (sempre opcional).
 
@@ -316,7 +358,7 @@ WERKT MET
 
 WAT JE KRIJGT
 • Je vragen en de antwoorden, op volgorde en duidelijk gescheiden.
-• Code met syntaxismarkering en de naam van de taal.
+• Code met syntaxismarkering en de naam van de taal, of de site nu Prism, Highlight.js of iets anders gebruikt.
 • Tabellen, lijsten, links, afbeeldingen en wiskundige formules.
 • Volledige gesprekken, ook lange die de site in stukken laadt.
 • Een pdf die altijd helder en leesbaar is, ook als je het donkere thema gebruikt.
@@ -338,6 +380,12 @@ ZO GEBRUIK JE HET
 3. Klik op het pictogram van de extensie (of Alt+Shift+P).
 4. Bekijk het overzicht, klik op ‘Afdrukken / Pdf opslaan’ en kies ‘Opslaan als pdf’.
 
+TOEPASSINGEN
+• Vragen en antwoorden bewaren om te studeren.
+• Codevoorbeelden afdrukken voor lessen of workshops.
+• Een gesprek exporteren voor technische documentatie.
+• Een strakke pdf delen met klanten of collega’s.
+
 PRIVACY
 De extensie leest het tabblad alleen als je op het pictogram klikt. Alles wordt in je browser verwerkt: je gesprekken worden naar geen enkele server gestuurd, zonder statistieken of diensten van derden. Ze bewaart in je browser alleen je voorkeuren en een gebruiksteller, om je af en toe te vragen haar te beoordelen of te doneren (altijd vrijwillig).
 
@@ -358,7 +406,7 @@ DZIAŁA Z
 
 CO OTRZYMUJESZ
 • Twoje pytania i odpowiedzi, po kolei i wyraźnie oddzielone.
-• Kod z podświetlaniem składni i nazwą języka.
+• Kod z podświetlaniem składni i nazwą języka, niezależnie od tego, czy strona używa Prism, Highlight.js czy czegoś innego.
 • Tabele, listy, linki, obrazy i wzory matematyczne.
 • Pełne rozmowy, także długie, które strona wczytuje partiami.
 • Zawsze jasny i czytelny PDF, nawet jeśli używasz ciemnego motywu.
@@ -380,6 +428,12 @@ JAK UŻYWAĆ
 3. Kliknij ikonę rozszerzenia (lub Alt+Shift+P).
 4. Sprawdź przejrzysty widok, kliknij „Drukuj / Zapisz PDF” i wybierz „Zapisz jako PDF”.
 
+ZASTOSOWANIA
+• Zachowywanie pytań i odpowiedzi do nauki.
+• Drukowanie przykładów kodu na zajęcia lub warsztaty.
+• Eksport rozmowy do dokumentacji technicznej.
+• Udostępnianie przejrzystego PDF klientom lub zespołowi.
+
 PRYWATNOŚĆ
 Rozszerzenie odczytuje kartę tylko po kliknięciu ikony. Wszystko jest przetwarzane w przeglądarce: rozmowy nie są wysyłane na żaden serwer, bez statystyk i usług zewnętrznych. W przeglądarce zapisuje tylko Twoje ustawienia i licznik użyć, aby od czasu do czasu zaprosić Cię do oceny lub darowizny (zawsze dobrowolnie).
 
@@ -400,7 +454,7 @@ D['tr'] = f'''Herhangi bir yapay zekâyla yaptığınız sohbetleri temiz ve oku
 
 NE ELDE EDERSİNİZ
 • Sorularınız ve yanıtlar, sırayla ve net biçimde ayrılmış.
-• Sözdizimi vurgulu kod ve dilin adı.
+• Site Prism, Highlight.js ya da başka bir sistem kullansın, sözdizimi vurgulu kod ve dilin adı.
 • Tablolar, listeler, bağlantılar, görseller ve matematik formülleri.
 • Sitenin parça parça yüklediği uzun sohbetler dâhil eksiksiz sohbetler.
 • Koyu tema kullansanız bile her zaman açık ve okunaklı bir PDF.
@@ -422,6 +476,12 @@ NASIL KULLANILIR
 3. Uzantı simgesine tıklayın (veya Alt+Shift+P).
 4. Temiz görünümü kontrol edin, “Yazdır / PDF kaydet”e tıklayın ve “PDF olarak kaydet”i seçin.
 
+KULLANIM ÖRNEKLERİ
+• Çalışmak için soruları ve yanıtları saklayın.
+• Ders veya atölyeler için kod örnekleri yazdırın.
+• Teknik dokümantasyon için bir sohbeti dışa aktarın.
+• Müşterilerle veya ekiple temiz bir PDF paylaşın.
+
 GİZLİLİK
 Uzantı sekmeyi yalnızca simgeye tıkladığınızda okur. Her şey tarayıcınızda işlenir: sohbetleriniz hiçbir sunucuya gönderilmez, analiz veya üçüncü taraf hizmeti yoktur. Tarayıcınızda yalnızca tercihlerinizi ve bir kullanım sayacını saklar; bunu ara sıra sizi değerlendirmeye veya bağışa davet etmek için kullanır (her zaman isteğe bağlı).
 
@@ -442,7 +502,7 @@ D['ru'] = f'''Сохраняйте в PDF или печатайте диалог
 
 ЧТО ВЫ ПОЛУЧАЕТЕ
 • Ваши вопросы и ответы — по порядку и чётко разделённые.
-• Код с подсветкой синтаксиса и названием языка.
+• Код с подсветкой синтаксиса и названием языка — неважно, использует ли сайт Prism, Highlight.js или что-то другое.
 • Таблицы, списки, ссылки, изображения и математические формулы.
 • Полные диалоги, в том числе длинные, которые сайт подгружает частями.
 • Всегда светлый и читаемый PDF, даже если вы пользуетесь тёмной темой.
@@ -464,6 +524,12 @@ D['ru'] = f'''Сохраняйте в PDF или печатайте диалог
 3. Нажмите значок расширения (или Alt+Shift+P).
 4. Проверьте чистый вид, нажмите «Печать / Сохранить PDF» и выберите «Сохранить как PDF».
 
+ДЛЯ ЧЕГО ПОДХОДИТ
+• Сохранять вопросы и ответы для учёбы.
+• Печатать примеры кода для занятий и воркшопов.
+• Экспортировать диалог для технической документации.
+• Делиться аккуратным PDF с клиентами или коллегами.
+
 КОНФИДЕНЦИАЛЬНОСТЬ
 Расширение читает вкладку, только когда вы нажимаете значок. Всё обрабатывается в браузере: ваши диалоги не отправляются ни на какие серверы, без аналитики и сторонних сервисов. В браузере сохраняются только ваши настройки и счётчик использований — чтобы иногда предложить оценить расширение или сделать пожертвование (всегда по желанию).
 
@@ -484,7 +550,7 @@ D['ja'] = f'''あらゆる AI との会話を、メニューやボタン、サ�
 
 できること
 • あなたの質問と回答を、順番どおりに見やすく区切って表示。
-• シンタックスハイライト付きのコードと言語名。
+• シンタックスハイライト付きのコードと言語名（サイトが Prism、Highlight.js などのどれを使っていても対応）。
 • 表、リスト、リンク、画像、数式。
 • サイトが分割して読み込む長い会話も含め、会話全体。
 • ダークテーマを使っていても、いつも明るく読みやすい PDF。
@@ -506,6 +572,12 @@ D['ja'] = f'''あらゆる AI との会話を、メニューやボタン、サ�
 3. 拡張機能のアイコンをクリック（または Alt+Shift+P）。
 4. 表示を確認し、「印刷 / PDF 保存」をクリックして「PDF に保存」を選びます。
 
+活用例
+• 学習用に質問と回答を保存。
+• 授業やワークショップ用にコード例を印刷。
+• 技術ドキュメント用に会話をエクスポート。
+• すっきりした PDF をクライアントやチームと共有。
+
 プライバシー
 拡張機能がタブを読み込むのは、アイコンをクリックしたときだけです。処理はすべてブラウザ内で行われ、会話がサーバーに送信されることはありません。分析ツールや第三者のサービスも使いません。ブラウザに保存するのは設定と利用回数のカウンターだけで、ときどき評価や寄付をお願いするために使います（いずれも任意）。
 
@@ -526,7 +598,7 @@ D['ko'] = f'''어떤 AI와의 대화든 메뉴, 버튼, 사이드바 없이 깔�
 
 이런 결과를 얻습니다
 • 내 질문과 답변이 순서대로, 명확하게 구분되어 표시됩니다.
-• 구문 강조와 언어 이름이 표시된 코드.
+• 구문 강조와 언어 이름이 표시된 코드(사이트가 Prism, Highlight.js 등 무엇을 쓰든 지원).
 • 표, 목록, 링크, 이미지, 수식.
 • 사이트가 나누어 불러오는 긴 대화까지 포함한 전체 대화.
 • 어두운 테마를 사용해도 항상 밝고 읽기 쉬운 PDF.
@@ -548,6 +620,12 @@ D['ko'] = f'''어떤 AI와의 대화든 메뉴, 버튼, 사이드바 없이 깔�
 3. 확장 프로그램 아이콘을 클릭합니다(또는 Alt+Shift+P).
 4. 깔끔한 화면을 확인하고 ‘인쇄 / PDF 저장’을 클릭한 뒤 ‘PDF로 저장’을 선택합니다.
 
+활용 예
+• 공부용으로 질문과 답변 보관.
+• 수업이나 워크숍용 코드 예제 인쇄.
+• 기술 문서용으로 대화 내보내기.
+• 고객이나 팀과 깔끔한 PDF 공유.
+
 개인정보 보호
 확장 프로그램은 아이콘을 클릭할 때만 탭을 읽습니다. 모든 처리는 브라우저에서 이루어지며 대화는 어떤 서버로도 전송되지 않습니다. 분석 도구나 제3자 서비스도 사용하지 않습니다. 브라우저에는 설정과 사용 횟수만 저장하며, 가끔 평가나 후원을 요청하는 데에만 사용합니다(항상 선택 사항).
 
@@ -568,7 +646,7 @@ D['zh_CN'] = f'''以简洁易读的视图，将你与任何 AI 的对话保存�
 
 你将得到
 • 你的提问和回答，按顺序清晰分隔。
-• 带语法高亮和语言名称的代码。
+• 带语法高亮和语言名称的代码（无论网站使用 Prism、Highlight.js 还是其他方案）。
 • 表格、列表、链接、图片和数学公式。
 • 完整对话，包括网站分段加载的长对话。
 • 即使使用深色主题，PDF 也始终清晰易读。
@@ -590,6 +668,12 @@ D['zh_CN'] = f'''以简洁易读的视图，将你与任何 AI 的对话保存�
 3. 点击扩展程序图标（或按 Alt+Shift+P）。
 4. 查看简洁视图，点击“打印 / 保存 PDF”，然后选择“另存为 PDF”。
 
+适用场景
+• 保存问答内容用于学习。
+• 打印代码示例用于课堂或工作坊。
+• 导出对话用于技术文档。
+• 与客户或同事分享整洁的 PDF。
+
 隐私
 只有在你点击图标时，扩展程序才会读取标签页。所有处理都在浏览器中完成：你的对话不会发送到任何服务器，也不使用分析工具或第三方服务。浏览器中只保存你的设置和使用次数计数，用于偶尔邀请你评分或捐助（始终自愿）。
 
@@ -610,7 +694,7 @@ D['zh_TW'] = f'''以簡潔易讀的檢視，將你與任何 AI 的對話儲存�
 
 你將得到
 • 你的提問和回答，依序清楚分隔。
-• 具語法醒目顯示和語言名稱的程式碼。
+• 具語法醒目顯示和語言名稱的程式碼（無論網站使用 Prism、Highlight.js 或其他方案）。
 • 表格、清單、連結、圖片和數學公式。
 • 完整對話，包括網站分段載入的長對話。
 • 即使使用深色主題，PDF 也始終清晰易讀。
@@ -631,6 +715,12 @@ D['zh_TW'] = f'''以簡潔易讀的檢視，將你與任何 AI 的對話儲存�
 2. 在 AI 網站上開啟對話。
 3. 點選擴充功能圖示（或按 Alt+Shift+P）。
 4. 檢查簡潔檢視，點選「列印 / 儲存 PDF」，然後選擇「另存為 PDF」。
+
+適用情境
+• 保存問答內容以便學習。
+• 列印程式碼範例用於課堂或工作坊。
+• 匯出對話用於技術文件。
+• 與客戶或同事分享整潔的 PDF。
 
 隱私
 只有在你點選圖示時，擴充功能才會讀取分頁。所有處理都在瀏覽器中完成：你的對話不會傳送到任何伺服器，也不使用分析工具或第三方服務。瀏覽器中只儲存你的設定和使用次數計數，用於偶爾邀請你評分或捐款（始終自願）。
