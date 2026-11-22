@@ -1,0 +1,48 @@
+Speichern oder drucken Sie Ihre Gespräche mit jeder KI als PDF – in einer sauberen, gut lesbaren Ansicht ohne Menüs, Schaltflächen und Seitenleisten.
+
+Früher funktionierte sie nur mit ChatGPT; seit Version 2.0 funktioniert sie mit den wichtigsten KIs und mit jeder Webseite.
+
+FUNKTIONIERT MIT
+• ChatGPT
+• Claude
+• Gemini
+• Microsoft Copilot
+• Perplexity
+• DeepSeek
+• Grok
+• Le Chat (Mistral)
+• Jeder anderen Website: druckt den Hauptinhalt der Seite.
+• Markiertem Text: Markieren Sie einen Teil, wird nur dieser gedruckt.
+
+DAS BEKOMMEN SIE
+• Ihre Fragen und die Antworten, in Reihenfolge und klar getrennt.
+• Code mit Syntaxhervorhebung und Name der Sprache.
+• Tabellen, Listen, Links, Bilder und mathematische Formeln.
+• Vollständige Gespräche, auch lange, die die Website stückweise lädt.
+• Ein immer klares, gut lesbares PDF, auch wenn Sie das dunkle Design nutzen.
+
+EINSTELLUNGEN VOR DEM DRUCKEN
+• Titel des Dokuments bearbeiten.
+• Eigene Nachrichten ausblenden und nur die Antworten behalten.
+• Anzeigen oder ausblenden, wer in jeder Nachricht spricht.
+• Kompaktmodus und drei Schriftgrößen.
+• Dunkles Design zum Lesen am Bildschirm.
+• Ein dezenter Hinweis in der Fußzeile des PDFs, abschaltbar per Kästchen.
+
+IN IHRER SPRACHE
+Spanisch, Englisch, Französisch, Deutsch, Italienisch, Portugiesisch (Brasilien und Portugal), Niederländisch, Polnisch, Türkisch, Russisch, Japanisch, Koreanisch und Chinesisch (vereinfacht und traditionell).
+
+SO GEHT ES
+1. Erweiterung an die Leiste anheften: Puzzleteil-Symbol → Stecknadel. Nach der Installation erklärt es ein Willkommensbildschirm.
+2. Öffnen Sie das Gespräch auf der Website der KI.
+3. Klicken Sie auf das Symbol der Erweiterung (oder Alt+Umschalt+P).
+4. Prüfen Sie die saubere Ansicht, klicken Sie auf „Drucken / Als PDF speichern“ und wählen Sie „Als PDF speichern“.
+
+DATENSCHUTZ
+Die Erweiterung liest den Tab nur, wenn Sie auf das Symbol klicken. Alles wird in Ihrem Browser verarbeitet: Ihre Gespräche werden an keinen Server gesendet, ohne Analysen oder Drittanbieterdienste. Sie speichert nur in Ihrem Browser Ihre Einstellungen und einen Nutzungszähler, um Sie gelegentlich um eine Bewertung oder eine Spende zu bitten (immer freiwillig).
+
+OPEN SOURCE
+https://github.com/GofioDesign/ai-chat-print
+Wenn eine KI nicht mehr richtig dargestellt wird (ihre Websites ändern sich oft), melden Sie es auf der Issues-Seite und wir beheben es.
+
+Entwickelt von Gofio Design. Unabhängiges Projekt, ohne Verbindung zu OpenAI, Anthropic, Google, Microsoft oder den anderen genannten Diensten.

@@ -1,0 +1,48 @@
+Guarde em PDF ou imprima as suas conversas com qualquer IA numa vista limpa e fácil de ler: sem menus, botões nem barras laterais.
+
+Antes funcionava só com o ChatGPT; desde a versão 2.0 funciona com as principais IA e com qualquer página web.
+
+FUNCIONA COM
+• ChatGPT
+• Claude
+• Gemini
+• Microsoft Copilot
+• Perplexity
+• DeepSeek
+• Grok
+• Le Chat (Mistral)
+• Qualquer outro site: imprime o conteúdo principal da página.
+• Texto selecionado: se selecionar um excerto, só esse excerto é impresso.
+
+O QUE OBTÉM
+• As suas perguntas e as respostas, por ordem e bem separadas.
+• Código com realce de sintaxe e o nome da linguagem.
+• Tabelas, listas, ligações, imagens e fórmulas matemáticas.
+• Conversas completas, incluindo as longas que o site carrega por partes.
+• Um PDF sempre claro e legível, mesmo que use o tema escuro.
+
+AJUSTES ANTES DE IMPRIMIR
+• Edite o título do documento.
+• Oculte as suas mensagens e deixe só as respostas.
+• Mostre ou oculte quem fala em cada mensagem.
+• Modo compacto e três tamanhos de letra.
+• Tema escuro para ler no ecrã.
+• Um crédito discreto no rodapé do PDF, que pode remover com uma caixa.
+
+NO SEU IDIOMA
+Espanhol, inglês, francês, alemão, italiano, português (Brasil e Portugal), neerlandês, polaco, turco, russo, japonês, coreano e chinês (simplificado e tradicional).
+
+COMO USAR
+1. Afixe a extensão na barra: ícone da peça de puzzle → pionés. Um ecrã de boas-vindas explica-o após a instalação.
+2. Abra a conversa no site da IA.
+3. Clique no ícone da extensão (ou Alt+Shift+P).
+4. Reveja a vista limpa, clique em «Imprimir / Guardar PDF» e escolha «Guardar como PDF».
+
+PRIVACIDADE
+A extensão só lê o separador quando clica no ícone. Tudo é processado no seu navegador: as suas conversas não são enviadas para nenhum servidor, sem estatísticas nem serviços de terceiros. Só guarda no seu navegador as suas preferências e um contador de utilizações, para o convidar de vez em quando a avaliá-la ou a fazer um donativo (sempre opcional).
+
+CÓDIGO ABERTO
+https://github.com/GofioDesign/ai-chat-print
+Se alguma IA deixar de aparecer bem (os sites mudam com frequência), avise na página de issues e corrigimos.
+
+Desenvolvido por Gofio Design. Projeto independente, sem relação com a OpenAI, Anthropic, Google, Microsoft nem os restantes serviços mencionados.

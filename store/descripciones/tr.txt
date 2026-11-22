@@ -1,0 +1,48 @@
+Herhangi bir yapay zekâyla yaptığınız sohbetleri temiz ve okunaklı bir görünümde PDF olarak kaydedin veya yazdırın: menü, düğme ve kenar çubuğu olmadan.
+
+Önceden yalnızca ChatGPT ile çalışıyordu; 2.0 sürümünden beri başlıca yapay zekâlarla ve her web sayfasıyla çalışır.
+
+ŞUNLARLA ÇALIŞIR
+• ChatGPT
+• Claude
+• Gemini
+• Microsoft Copilot
+• Perplexity
+• DeepSeek
+• Grok
+• Le Chat (Mistral)
+• Diğer tüm siteler: sayfanın ana içeriğini yazdırır.
+• Seçili metin: bir bölümü seçerseniz yalnızca o bölüm yazdırılır.
+
+NE ELDE EDERSİNİZ
+• Sorularınız ve yanıtlar, sırayla ve net biçimde ayrılmış.
+• Sözdizimi vurgulu kod ve dilin adı.
+• Tablolar, listeler, bağlantılar, görseller ve matematik formülleri.
+• Sitenin parça parça yüklediği uzun sohbetler dâhil eksiksiz sohbetler.
+• Koyu tema kullansanız bile her zaman açık ve okunaklı bir PDF.
+
+YAZDIRMADAN ÖNCE AYARLAR
+• Belge başlığını düzenleyin.
+• Kendi mesajlarınızı gizleyip yalnızca yanıtları bırakın.
+• Her mesajda kimin konuştuğunu gösterin veya gizleyin.
+• Sıkı mod ve üç yazı boyutu.
+• Ekranda okumak için koyu tema.
+• PDF’nin altbilgisinde, bir kutuyla kaldırabileceğiniz küçük bir kaynak notu.
+
+SİZİN DİLİNİZDE
+İspanyolca, İngilizce, Fransızca, Almanca, İtalyanca, Portekizce (Brezilya ve Portekiz), Felemenkçe, Lehçe, Türkçe, Rusça, Japonca, Korece ve Çince (basitleştirilmiş ve geleneksel).
+
+NASIL KULLANILIR
+1. Uzantıyı araç çubuğuna sabitleyin: yapboz parçası simgesi → raptiye. Kurulumdan sonra bir karşılama ekranı bunu anlatır.
+2. Sohbeti yapay zekânın sitesinde açın.
+3. Uzantı simgesine tıklayın (veya Alt+Shift+P).
+4. Temiz görünümü kontrol edin, “Yazdır / PDF kaydet”e tıklayın ve “PDF olarak kaydet”i seçin.
+
+GİZLİLİK
+Uzantı sekmeyi yalnızca simgeye tıkladığınızda okur. Her şey tarayıcınızda işlenir: sohbetleriniz hiçbir sunucuya gönderilmez, analiz veya üçüncü taraf hizmeti yoktur. Tarayıcınızda yalnızca tercihlerinizi ve bir kullanım sayacını saklar; bunu ara sıra sizi değerlendirmeye veya bağışa davet etmek için kullanır (her zaman isteğe bağlı).
+
+AÇIK KAYNAK
+https://github.com/GofioDesign/ai-chat-print
+Bir yapay zekâ sitesi düzgün görünmezse (siteler sık değişir), issues sayfasından bildirin, düzeltelim.
+
+Gofio Design tarafından geliştirilmiştir. Bağımsız bir projedir; OpenAI, Anthropic, Google, Microsoft veya adı geçen diğer hizmetlerle ilişkisi yoktur.

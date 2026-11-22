@@ -1,0 +1,48 @@
+Save as PDF or print your conversations with any AI in a clean, readable view — no menus, buttons or sidebars.
+
+It used to work only with ChatGPT; since version 2.0 it works with the main AI assistants and with any web page.
+
+WORKS WITH
+• ChatGPT
+• Claude
+• Gemini
+• Microsoft Copilot
+• Perplexity
+• DeepSeek
+• Grok
+• Le Chat (Mistral)
+• Any other website: prints the main content of the page.
+• Selected text: select a part and only that part is printed.
+
+WHAT YOU GET
+• Your prompts and the answers, in order and clearly separated.
+• Syntax-highlighted code with the language name.
+• Tables, lists, links, images and math formulas.
+• Full conversations, including long ones the site loads in chunks.
+• A PDF that is always clean and readable, even if you use dark mode.
+
+SETTINGS BEFORE PRINTING
+• Edit the document title.
+• Hide your prompts and keep only the answers.
+• Show or hide who is speaking in each message.
+• Compact mode and three font sizes.
+• Dark theme for reading on screen.
+• A small footer credit in the PDF, which you can remove with one checkbox.
+
+IN YOUR LANGUAGE
+Spanish, English, French, German, Italian, Portuguese (Brazil and Portugal), Dutch, Polish, Turkish, Russian, Japanese, Korean and Chinese (Simplified and Traditional).
+
+HOW TO USE
+1. Pin the extension to the toolbar: puzzle-piece icon → pin. A welcome screen explains it after installing.
+2. Open the conversation on the AI's website.
+3. Click the extension icon (or Alt+Shift+P).
+4. Check the clean view, click "Print / Save PDF" and choose "Save as PDF".
+
+PRIVACY
+The extension only reads the tab when you click the icon. Everything is processed in your browser: your conversations are never sent to any server, and there are no analytics or third-party services. It only stores your preferences and a usage counter in your browser, to occasionally invite you to rate it or donate (always optional).
+
+OPEN SOURCE
+https://github.com/GofioDesign/ai-chat-print
+If an AI site stops looking right (they change often), let us know on the issues page and we'll fix it.
+
+Made by Gofio Design. Independent project, not affiliated with OpenAI, Anthropic, Google, Microsoft or the other services mentioned.

@@ -1,0 +1,48 @@
+Sla je gesprekken met elke AI op als pdf of druk ze af, in een strak en goed leesbaar overzicht: zonder menu’s, knoppen of zijbalken.
+
+Eerst werkte ze alleen met ChatGPT; sinds versie 2.0 werkt ze met de belangrijkste AI’s en met elke webpagina.
+
+WERKT MET
+• ChatGPT
+• Claude
+• Gemini
+• Microsoft Copilot
+• Perplexity
+• DeepSeek
+• Grok
+• Le Chat (Mistral)
+• Elke andere website: drukt de hoofdinhoud van de pagina af.
+• Geselecteerde tekst: selecteer een deel en alleen dat wordt afgedrukt.
+
+WAT JE KRIJGT
+• Je vragen en de antwoorden, op volgorde en duidelijk gescheiden.
+• Code met syntaxismarkering en de naam van de taal.
+• Tabellen, lijsten, links, afbeeldingen en wiskundige formules.
+• Volledige gesprekken, ook lange die de site in stukken laadt.
+• Een pdf die altijd helder en leesbaar is, ook als je het donkere thema gebruikt.
+
+INSTELLINGEN VOOR HET AFDRUKKEN
+• Bewerk de titel van het document.
+• Verberg je eigen berichten en houd alleen de antwoorden over.
+• Toon of verberg wie er in elk bericht spreekt.
+• Compacte modus en drie lettergroottes.
+• Donker thema om op het scherm te lezen.
+• Een kleine vermelding in de voettekst van de pdf, uit te zetten met één vinkje.
+
+IN JOUW TAAL
+Spaans, Engels, Frans, Duits, Italiaans, Portugees (Brazilië en Portugal), Nederlands, Pools, Turks, Russisch, Japans, Koreaans en Chinees (vereenvoudigd en traditioneel).
+
+ZO GEBRUIK JE HET
+1. Zet de extensie vast in de balk: puzzelstukje → punaise. Na de installatie legt een welkomstscherm het uit.
+2. Open het gesprek op de website van de AI.
+3. Klik op het pictogram van de extensie (of Alt+Shift+P).
+4. Bekijk het overzicht, klik op ‘Afdrukken / Pdf opslaan’ en kies ‘Opslaan als pdf’.
+
+PRIVACY
+De extensie leest het tabblad alleen als je op het pictogram klikt. Alles wordt in je browser verwerkt: je gesprekken worden naar geen enkele server gestuurd, zonder statistieken of diensten van derden. Ze bewaart in je browser alleen je voorkeuren en een gebruiksteller, om je af en toe te vragen haar te beoordelen of te doneren (altijd vrijwillig).
+
+OPEN SOURCE
+https://github.com/GofioDesign/ai-chat-print
+Ziet een AI-site er niet meer goed uit (ze veranderen vaak)? Meld het op de issues-pagina en we lossen het op.
+
+Gemaakt door Gofio Design. Onafhankelijk project, niet verbonden aan OpenAI, Anthropic, Google, Microsoft of de andere genoemde diensten.
