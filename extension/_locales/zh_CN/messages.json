@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "AI → PDF"
+  },
+  "extShortName": {
+    "message": "AI → PDF"
+  },
+  "extDescription": {
+    "message": "以简洁视图打印或保存 ChatGPT、Claude、Gemini、Copilot 等 AI 聊天为 PDF，代码高亮显示。"
+  },
+  "actionTitle": {
+    "message": "打印此对话（Alt+Shift+P）"
+  },
+  "badgeError": {
+    "message": "无法打印此页面"
+  },
+  "printTitle": {
+    "message": "打印预览"
+  },
+  "printButton": {
+    "message": "打印 / 保存 PDF"
+  },
+  "optPrompts": {
+    "message": "显示我的消息"
+  },
+  "optLabels": {
+    "message": "显示发言者"
+  },
+  "optCompact": {
+    "message": "紧凑"
+  },
+  "optDark": {
+    "message": "屏幕深色主题"
+  },
+  "optCredit": {
+    "message": "页脚署名"
+  },
+  "optFont": {
+    "message": "字号"
+  },
+  "fontSmall": {
+    "message": "小"
+  },
+  "fontNormal": {
+    "message": "标准"
+  },
+  "fontLarge": {
+    "message": "大"
+  },
+  "roleUser": {
+    "message": "你"
+  },
+  "roleAssistant": {
+    "message": "AI"
+  },
+  "roleContent": {
+    "message": "内容"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ 条消息",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "所选文本"
+  },
+  "modePage": {
+    "message": "页面内容（未识别的网站）"
+  },
+  "notFound": {
+    "message": "未找到对话。请在聊天标签页中再次点击扩展程序图标。"
+  },
+  "printHint": {
+    "message": "在打印对话框中，将目标打印机设为“另存为 PDF”。"
+  },
+  "source": {
+    "message": "来源"
+  },
+  "creditText": {
+    "message": "制作工具："
+  },
+  "welcomeKicker": {
+    "message": "安装完成"
+  },
+  "welcomeLead": {
+    "message": "将你与任何 AI 的对话以简洁视图保存为 PDF 或打印，没有菜单和按钮。只需三步："
+  },
+  "artExtensions": {
+    "message": "扩展程序"
+  },
+  "step1Title": {
+    "message": "将扩展程序固定到工具栏"
+  },
+  "step1Text": {
+    "message": "点击 Chrome 右上角的<strong>拼图</strong>图标，再点击“AI → PDF”旁边的<strong>图钉</strong>。图标就会一直显示。"
+  },
+  "step2Title": {
+    "message": "打开聊天并点击图标"
+  },
+  "step2Text": {
+    "message": "在 AI 网站上打开要保存的对话，然后点击扩展程序图标。即使对话很长，也会完整读取。"
+  },
+  "step3Title": {
+    "message": "保存 PDF"
+  },
+  "step3Text": {
+    "message": "会打开一个显示简洁视图的标签页。按需调整（标题、字号、显示或隐藏你的消息），然后点击<strong>打印 / 保存 PDF</strong>。目标打印机选择“另存为 PDF”。"
+  },
+  "tipsTitle": {
+    "message": "小提示"
+  },
+  "tipShortcut": {
+    "message": "快捷键：<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>（Mac 上为 <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>）。"
+  },
+  "tipSelection": {
+    "message": "如果在点击图标前选中一段文字，则只打印这部分。"
+  },
+  "tipOther": {
+    "message": "在非 AI 聊天的网站上，会打印页面的主要内容。"
+  },
+  "welcomePrivacy": {
+    "message": "只有在你点击图标时，扩展程序才会读取标签页。所有处理都在浏览器中完成，不会向任何服务器发送数据。"
+  },
+  "welcomeRepo": {
+    "message": "GitHub 开源代码"
+  },
+  "moreLink": {
+    "message": "更多扩展程序 · 支持本项目 ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "觉得有用吗？"
+  },
+  "reviewText": {
+    "message": "在 Chrome 应用商店给出评分，可以帮助更多人找到它。"
+  },
+  "reviewButton": {
+    "message": "为扩展程序评分"
+  },
+  "reviewLater": {
+    "message": "以后再说"
+  },
+  "reviewNever": {
+    "message": "不再显示"
+  },
+  "donateTitle": {
+    "message": "感谢你一直以来的使用！"
+  },
+  "donateText": {
+    "message": "本扩展程序免费且无广告。如果它对你有帮助，自愿捐助可以支持维护并开发新工具。"
+  },
+  "donateButton": {
+    "message": "捐助支持"
+  },
+  "donateLater": {
+    "message": "以后再说"
+  }
+}

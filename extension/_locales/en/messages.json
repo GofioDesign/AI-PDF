@@ -1,12 +1,12 @@
 {
   "extName": {
-    "message": "AI Chats → Clean View + PDF"
+    "message": "AI → PDF"
   },
   "extShortName": {
     "message": "AI → PDF"
   },
   "extDescription": {
-    "message": "Print or save as PDF your ChatGPT, Claude, Gemini, Copilot and other AI conversations in a clean view with highlighted code."
+    "message": "Print or save as PDF your ChatGPT, Claude, Gemini, Copilot and other AI chats in a clean view with highlighted code."
   },
   "actionTitle": {
     "message": "Print this conversation (Alt+Shift+P)"
@@ -31,6 +31,9 @@
   },
   "optDark": {
     "message": "Dark theme on screen"
+  },
+  "optCredit": {
+    "message": "Footer credit"
   },
   "optFont": {
     "message": "Size"
@@ -71,10 +74,13 @@
     "message": "Conversation not found. Click the extension icon again on the chat tab."
   },
   "printHint": {
-    "message": "In the print dialog choose \"Save as PDF\" as the destination."
+    "message": "In the print dialog choose “Save as PDF” as the destination."
   },
   "source": {
     "message": "Source"
+  },
+  "creditText": {
+    "message": "Made with"
   },
   "welcomeKicker": {
     "message": "Installed and ready"
@@ -126,5 +132,32 @@
   },
   "moreUrl": {
     "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "Finding it useful?"
+  },
+  "reviewText": {
+    "message": "A rating on the Chrome Web Store helps other people find it."
+  },
+  "reviewButton": {
+    "message": "Rate the extension"
+  },
+  "reviewLater": {
+    "message": "Not now"
+  },
+  "reviewNever": {
+    "message": "Don't show again"
+  },
+  "donateTitle": {
+    "message": "Thanks for using it all this time!"
+  },
+  "donateText": {
+    "message": "This extension is free and ad-free. If it has been useful to you, a voluntary donation helps keep it going and build new tools."
+  },
+  "donateButton": {
+    "message": "Support with a donation"
+  },
+  "donateLater": {
+    "message": "Not now"
   }
 }

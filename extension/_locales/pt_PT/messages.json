@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "IA → PDF"
+  },
+  "extShortName": {
+    "message": "IA → PDF"
+  },
+  "extDescription": {
+    "message": "Imprima ou guarde em PDF os seus chats do ChatGPT, Claude, Gemini, Copilot e outras IA numa vista limpa, com código realçado."
+  },
+  "actionTitle": {
+    "message": "Imprimir esta conversa (Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "Não é possível imprimir esta página"
+  },
+  "printTitle": {
+    "message": "Pré-visualização de impressão"
+  },
+  "printButton": {
+    "message": "Imprimir / Guardar PDF"
+  },
+  "optPrompts": {
+    "message": "Mostrar as minhas mensagens"
+  },
+  "optLabels": {
+    "message": "Mostrar quem fala"
+  },
+  "optCompact": {
+    "message": "Compacto"
+  },
+  "optDark": {
+    "message": "Tema escuro no ecrã"
+  },
+  "optCredit": {
+    "message": "Crédito no rodapé"
+  },
+  "optFont": {
+    "message": "Tamanho"
+  },
+  "fontSmall": {
+    "message": "Pequeno"
+  },
+  "fontNormal": {
+    "message": "Normal"
+  },
+  "fontLarge": {
+    "message": "Grande"
+  },
+  "roleUser": {
+    "message": "Você"
+  },
+  "roleAssistant": {
+    "message": "IA"
+  },
+  "roleContent": {
+    "message": "Conteúdo"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ mensagens",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Texto selecionado"
+  },
+  "modePage": {
+    "message": "Conteúdo da página (site não reconhecido)"
+  },
+  "notFound": {
+    "message": "Conversa não encontrada. Clique novamente no ícone da extensão no separador do chat."
+  },
+  "printHint": {
+    "message": "Na janela de impressão, escolha «Guardar como PDF» como destino."
+  },
+  "source": {
+    "message": "Fonte"
+  },
+  "creditText": {
+    "message": "Feito com"
+  },
+  "welcomeKicker": {
+    "message": "Instalação concluída"
+  },
+  "welcomeLead": {
+    "message": "Guarde em PDF ou imprima as suas conversas com qualquer IA numa vista limpa, sem menus nem botões. Veja como, em três passos:"
+  },
+  "artExtensions": {
+    "message": "Extensões"
+  },
+  "step1Title": {
+    "message": "Afixe a extensão na barra"
+  },
+  "step1Text": {
+    "message": "Clique no ícone da <strong>peça de puzzle</strong> no canto superior direito do Chrome e depois no <strong>pionés</strong> junto a «IA → PDF». Assim o ícone fica sempre visível."
+  },
+  "step2Title": {
+    "message": "Abra o chat e clique no ícone"
+  },
+  "step2Text": {
+    "message": "Abra no site da IA a conversa que quer guardar e clique no ícone da extensão. Percorre o chat inteiro, mesmo os longos."
+  },
+  "step3Title": {
+    "message": "Guarde o PDF"
+  },
+  "step3Text": {
+    "message": "Abre-se um separador com a vista limpa. Ajuste o que quiser (título, tamanho, mostrar ou ocultar as suas mensagens) e clique em <strong>Imprimir / Guardar PDF</strong>. No destino, escolha «Guardar como PDF»."
+  },
+  "tipsTitle": {
+    "message": "Dicas"
+  },
+  "tipShortcut": {
+    "message": "Atalho de teclado: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (no Mac, <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Se selecionar um excerto antes de clicar no ícone, só esse excerto é impresso."
+  },
+  "tipOther": {
+    "message": "Em sites que não são chats de IA, imprime o conteúdo principal da página."
+  },
+  "welcomePrivacy": {
+    "message": "A extensão só lê o separador quando clica no ícone. Tudo é processado no seu navegador e nada é enviado para nenhum servidor."
+  },
+  "welcomeRepo": {
+    "message": "Código aberto no GitHub"
+  },
+  "moreLink": {
+    "message": "Mais extensões · Apoie o projeto ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "Está a ser útil?"
+  },
+  "reviewText": {
+    "message": "Uma avaliação na Chrome Web Store ajuda outras pessoas a encontrá-la."
+  },
+  "reviewButton": {
+    "message": "Avaliar a extensão"
+  },
+  "reviewLater": {
+    "message": "Agora não"
+  },
+  "reviewNever": {
+    "message": "Não voltar a mostrar"
+  },
+  "donateTitle": {
+    "message": "Obrigado por a usar todo este tempo!"
+  },
+  "donateText": {
+    "message": "Esta extensão é gratuita e sem anúncios. Se lhe foi útil, um donativo voluntário ajuda a mantê-la e a criar novas ferramentas."
+  },
+  "donateButton": {
+    "message": "Apoiar com um donativo"
+  },
+  "donateLater": {
+    "message": "Agora não"
+  }
+}

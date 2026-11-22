@@ -1,12 +1,12 @@
 {
   "extName": {
-    "message": "Chats de IA → Vista limpia + PDF"
+    "message": "IA → PDF"
   },
   "extShortName": {
     "message": "IA → PDF"
   },
   "extDescription": {
-    "message": "Imprime o guarda en PDF tus conversaciones de ChatGPT, Claude, Gemini, Copilot y otras IAs en una vista limpia, con código resaltado."
+    "message": "Imprime o guarda en PDF tus chats de ChatGPT, Claude, Gemini, Copilot y otras IAs en una vista limpia, con código resaltado."
   },
   "actionTitle": {
     "message": "Imprimir esta conversación (Alt+Shift+P)"
@@ -31,6 +31,9 @@
   },
   "optDark": {
     "message": "Tema oscuro en pantalla"
+  },
+  "optCredit": {
+    "message": "Crédito al pie"
   },
   "optFont": {
     "message": "Tamaño"
@@ -75,6 +78,9 @@
   },
   "source": {
     "message": "Fuente"
+  },
+  "creditText": {
+    "message": "Generado con"
   },
   "welcomeKicker": {
     "message": "Ya está instalada"
@@ -126,5 +132,32 @@
   },
   "moreUrl": {
     "message": "https://gofiodesign.eu/extensiones.html"
+  },
+  "reviewTitle": {
+    "message": "¿Te está siendo útil?"
+  },
+  "reviewText": {
+    "message": "Una valoración en la Chrome Web Store ayuda a que otras personas la encuentren."
+  },
+  "reviewButton": {
+    "message": "Valorar la extensión"
+  },
+  "reviewLater": {
+    "message": "Ahora no"
+  },
+  "reviewNever": {
+    "message": "No volver a mostrar"
+  },
+  "donateTitle": {
+    "message": "¡Gracias por usarla todo este tiempo!"
+  },
+  "donateText": {
+    "message": "Esta extensión es gratuita y sin anuncios. Si te ha resultado útil, una donación voluntaria ayuda a mantenerla y a crear nuevas herramientas."
+  },
+  "donateButton": {
+    "message": "Colaborar con una donación"
+  },
+  "donateLater": {
+    "message": "Ahora no"
   }
 }

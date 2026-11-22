@@ -1,8 +1,8 @@
-# Política de privacidad — Chats de IA → Vista limpia + PDF
+# Política de privacidad — IA → PDF
 
 _Última actualización: 22 de noviembre de 2026_
 
-**Chats de IA → Vista limpia + PDF** no recoge, almacena en servidores, transmite, vende ni comparte ningún dato personal.
+**IA → PDF** no recoge, almacena en servidores, transmite, vende ni comparte ningún dato personal.
 
 ## Cómo funciona
 
@@ -13,7 +13,12 @@ _Última actualización: 22 de noviembre de 2026_
 
 ## Qué guarda
 
-Solo tus **preferencias de la vista de impresión** (por ejemplo, tamaño de letra o si mostrar tus mensajes), en el almacenamiento local de Chrome.
+En el almacenamiento local de Chrome, y solo en tu navegador:
+
+- Tus **preferencias de la vista de impresión** (por ejemplo, tamaño de letra, si mostrar tus mensajes o el crédito al pie).
+- La **fecha de instalación** y **cuántas veces has usado la extensión**, únicamente para mostrar de vez en cuando una invitación a valorarla (cada 5 usos, hasta que la valores o elijas no volver a verla) y, como mucho una vez al año, una invitación a hacer una donación voluntaria.
+
+Estos datos nunca salen de tu navegador: no se envían a Gofio Design ni a nadie. Se borran al desinstalar la extensión.
 
 ## Qué no hace
 
@@ -30,4 +35,4 @@ https://github.com/GofioDesign/ai-chat-print/issues
 
 # Privacy policy (English)
 
-**AI Chats → Clean View + PDF** does not collect, transmit, sell or share any personal data. It only reads the current tab when you click its icon (or press Alt+Shift+P), builds a clean print view locally in a new tab, and keeps that copy only temporarily in Chrome's session memory. It stores only your print-view preferences locally. No analytics, no third-party services, no remote servers.
+**AI → PDF** does not collect, transmit, sell or share any personal data. It only reads the current tab when you click its icon (or press Alt+Shift+P), builds a clean print view locally in a new tab, and keeps that copy only temporarily in Chrome's session memory. It stores locally, and only in your browser, your print-view preferences plus the install date and a usage counter, used solely to occasionally invite you to rate the extension or make a voluntary donation (at most once a year). This data never leaves your browser. No analytics, no third-party services, no remote servers.

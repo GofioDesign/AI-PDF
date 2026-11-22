@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "AI → PDF"
+  },
+  "extShortName": {
+    "message": "AI → PDF"
+  },
+  "extDescription": {
+    "message": "ChatGPT、Claude、Gemini、Copilot などの AI チャットを、コードを色分けしたすっきりした表示で印刷・PDF 保存。"
+  },
+  "actionTitle": {
+    "message": "この会話を印刷（Alt+Shift+P）"
+  },
+  "badgeError": {
+    "message": "このページは印刷できません"
+  },
+  "printTitle": {
+    "message": "印刷プレビュー"
+  },
+  "printButton": {
+    "message": "印刷 / PDF 保存"
+  },
+  "optPrompts": {
+    "message": "自分のメッセージを表示"
+  },
+  "optLabels": {
+    "message": "発言者を表示"
+  },
+  "optCompact": {
+    "message": "コンパクト"
+  },
+  "optDark": {
+    "message": "画面ではダークテーマ"
+  },
+  "optCredit": {
+    "message": "フッターにクレジット"
+  },
+  "optFont": {
+    "message": "サイズ"
+  },
+  "fontSmall": {
+    "message": "小"
+  },
+  "fontNormal": {
+    "message": "標準"
+  },
+  "fontLarge": {
+    "message": "大"
+  },
+  "roleUser": {
+    "message": "あなた"
+  },
+  "roleAssistant": {
+    "message": "AI"
+  },
+  "roleContent": {
+    "message": "コンテンツ"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ 件のメッセージ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "選択したテキスト"
+  },
+  "modePage": {
+    "message": "ページの内容（未対応のサイト）"
+  },
+  "notFound": {
+    "message": "会話が見つかりません。チャットのタブで拡張機能のアイコンをもう一度クリックしてください。"
+  },
+  "printHint": {
+    "message": "印刷ダイアログで送信先に「PDF に保存」を選んでください。"
+  },
+  "source": {
+    "message": "出典"
+  },
+  "creditText": {
+    "message": "作成ツール:"
+  },
+  "welcomeKicker": {
+    "message": "インストール完了"
+  },
+  "welcomeLead": {
+    "message": "あらゆる AI との会話を、メニューやボタンのないすっきりした表示で PDF に保存・印刷できます。使い方は 3 ステップ:"
+  },
+  "artExtensions": {
+    "message": "拡張機能"
+  },
+  "step1Title": {
+    "message": "拡張機能をツールバーに固定"
+  },
+  "step1Text": {
+    "message": "Chrome 右上の<strong>パズルのピース</strong>のアイコンをクリックし、「AI → PDF」の横の<strong>ピン</strong>をクリックします。これでアイコンが常に表示されます。"
+  },
+  "step2Title": {
+    "message": "チャットを開いてアイコンをクリック"
+  },
+  "step2Text": {
+    "message": "保存したい会話を AI のサイトで開き、拡張機能のアイコンをクリックします。長い会話でも全体を読み込みます。"
+  },
+  "step3Title": {
+    "message": "PDF を保存"
+  },
+  "step3Text": {
+    "message": "すっきりした表示のタブが開きます。タイトルやサイズ、自分のメッセージの表示などを調整して、<strong>印刷 / PDF 保存</strong>をクリック。送信先で「PDF に保存」を選びます。"
+  },
+  "tipsTitle": {
+    "message": "ヒント"
+  },
+  "tipShortcut": {
+    "message": "キーボードショートカット: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>（Mac は <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>）。"
+  },
+  "tipSelection": {
+    "message": "アイコンをクリックする前にテキストを選択すると、その部分だけが印刷されます。"
+  },
+  "tipOther": {
+    "message": "AI チャット以外のサイトでは、ページのメインコンテンツを印刷します。"
+  },
+  "welcomePrivacy": {
+    "message": "拡張機能がタブを読み込むのは、アイコンをクリックしたときだけです。処理はすべてブラウザ内で行われ、サーバーには何も送信されません。"
+  },
+  "welcomeRepo": {
+    "message": "GitHub でオープンソース"
+  },
+  "moreLink": {
+    "message": "ほかの拡張機能 · プロジェクトを応援 ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "お役に立っていますか？"
+  },
+  "reviewText": {
+    "message": "Chrome ウェブストアで評価していただくと、ほかの人が見つけやすくなります。"
+  },
+  "reviewButton": {
+    "message": "拡張機能を評価"
+  },
+  "reviewLater": {
+    "message": "今はしない"
+  },
+  "reviewNever": {
+    "message": "今後表示しない"
+  },
+  "donateTitle": {
+    "message": "長くご利用いただきありがとうございます！"
+  },
+  "donateText": {
+    "message": "この拡張機能は無料・広告なしです。お役に立ったなら、任意のご寄付が保守と新しいツールづくりの支えになります。"
+  },
+  "donateButton": {
+    "message": "寄付で応援する"
+  },
+  "donateLater": {
+    "message": "今はしない"
+  }
+}

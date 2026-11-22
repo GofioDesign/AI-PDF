@@ -1,4 +1,4 @@
-# Chats de IA → Vista limpia + PDF
+# IA → PDF
 
 Extensión de Chrome para imprimir o guardar en PDF tus conversaciones con cualquier IA, en una vista limpia: sin menús, botones ni barras laterales, con el código resaltado, tablas y fórmulas.
 
@@ -16,6 +16,8 @@ Extensión de Chrome para imprimir o guardar en PDF tus conversaciones con cualq
 
 Si tienes **texto seleccionado**, imprime solo la selección, en cualquier web.
 
+Disponible en 15 idiomas: español, inglés, francés, alemán, italiano, portugués (BR y PT), neerlandés, polaco, turco, ruso, japonés, coreano y chino (simplificado y tradicional). Los textos están en `tools/locales.py`; tras editarlos, ejecuta `python3 tools/locales.py`.
+
 ## Cómo se usa
 
 Al instalarla se abre una pantalla de bienvenida (en español o inglés, según tu Chrome) que explica estos pasos.
@@ -27,7 +29,8 @@ Al instalarla se abre una pantalla de bienvenida (en español o inglés, según 
    - editar el título (haz clic sobre él),
    - ocultar tus mensajes y dejar solo las respuestas,
    - quitar las etiquetas de quién habla,
-   - activar el modo compacto o cambiar el tamaño de letra.
+   - activar el modo compacto o cambiar el tamaño de letra,
+   - quitar el crédito «Generado con IA → PDF · gofiodesign.eu» del pie (activado por defecto).
 4. Pulsa **Imprimir / Guardar PDF** y elige «Guardar como PDF» como destino.
 
 La extensión recorre la conversación completa antes de imprimir, así que también funciona con chats largos que la web carga a trozos.

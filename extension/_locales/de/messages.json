@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "KI → PDF"
+  },
+  "extShortName": {
+    "message": "KI → PDF"
+  },
+  "extDescription": {
+    "message": "Drucken oder speichern Sie Chats aus ChatGPT, Claude, Gemini, Copilot und anderen KIs als PDF – sauber und mit Code-Hervorhebung."
+  },
+  "actionTitle": {
+    "message": "Dieses Gespräch drucken (Alt+Umschalt+P)"
+  },
+  "badgeError": {
+    "message": "Diese Seite kann nicht gedruckt werden"
+  },
+  "printTitle": {
+    "message": "Druckansicht"
+  },
+  "printButton": {
+    "message": "Drucken / Als PDF speichern"
+  },
+  "optPrompts": {
+    "message": "Meine Nachrichten zeigen"
+  },
+  "optLabels": {
+    "message": "Sprecher zeigen"
+  },
+  "optCompact": {
+    "message": "Kompakt"
+  },
+  "optDark": {
+    "message": "Dunkles Design am Bildschirm"
+  },
+  "optCredit": {
+    "message": "Hinweis in der Fußzeile"
+  },
+  "optFont": {
+    "message": "Größe"
+  },
+  "fontSmall": {
+    "message": "Klein"
+  },
+  "fontNormal": {
+    "message": "Normal"
+  },
+  "fontLarge": {
+    "message": "Groß"
+  },
+  "roleUser": {
+    "message": "Sie"
+  },
+  "roleAssistant": {
+    "message": "KI"
+  },
+  "roleContent": {
+    "message": "Inhalt"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ Nachrichten",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Markierter Text"
+  },
+  "modePage": {
+    "message": "Seiteninhalt (Website nicht erkannt)"
+  },
+  "notFound": {
+    "message": "Gespräch nicht gefunden. Klicken Sie im Chat-Tab erneut auf das Symbol der Erweiterung."
+  },
+  "printHint": {
+    "message": "Wählen Sie im Druckdialog „Als PDF speichern“ als Ziel."
+  },
+  "source": {
+    "message": "Quelle"
+  },
+  "creditText": {
+    "message": "Erstellt mit"
+  },
+  "welcomeKicker": {
+    "message": "Fertig installiert"
+  },
+  "welcomeLead": {
+    "message": "Speichern oder drucken Sie Ihre Gespräche mit jeder KI als PDF – in einer sauberen Ansicht ohne Menüs und Schaltflächen. So geht es, in drei Schritten:"
+  },
+  "artExtensions": {
+    "message": "Erweiterungen"
+  },
+  "step1Title": {
+    "message": "Erweiterung an die Leiste anheften"
+  },
+  "step1Text": {
+    "message": "Klicken Sie oben rechts in Chrome auf das <strong>Puzzleteil</strong> und dann auf die <strong>Stecknadel</strong> neben „KI → PDF“. So bleibt das Symbol immer sichtbar."
+  },
+  "step2Title": {
+    "message": "Chat öffnen und auf das Symbol klicken"
+  },
+  "step2Text": {
+    "message": "Öffnen Sie auf der Website der KI das Gespräch, das Sie speichern möchten, und klicken Sie auf das Symbol. Der ganze Chat wird erfasst, auch lange."
+  },
+  "step3Title": {
+    "message": "PDF speichern"
+  },
+  "step3Text": {
+    "message": "Ein Tab mit der sauberen Ansicht öffnet sich. Passen Sie an, was Sie möchten (Titel, Größe, eigene Nachrichten zeigen oder ausblenden), und klicken Sie auf <strong>Drucken / Als PDF speichern</strong>. Als Ziel „Als PDF speichern“ wählen."
+  },
+  "tipsTitle": {
+    "message": "Tipps"
+  },
+  "tipShortcut": {
+    "message": "Tastenkürzel: <kbd>Alt</kbd>+<kbd>Umschalt</kbd>+<kbd>P</kbd> (auf dem Mac <kbd>Option</kbd>+<kbd>Umschalt</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Wenn Sie vor dem Klick Text markieren, wird nur dieser Teil gedruckt."
+  },
+  "tipOther": {
+    "message": "Auf Websites, die keine KI-Chats sind, wird der Hauptinhalt der Seite gedruckt."
+  },
+  "welcomePrivacy": {
+    "message": "Die Erweiterung liest den Tab nur, wenn Sie auf das Symbol klicken. Alles wird in Ihrem Browser verarbeitet, nichts wird an einen Server gesendet."
+  },
+  "welcomeRepo": {
+    "message": "Quellcode auf GitHub"
+  },
+  "moreLink": {
+    "message": "Weitere Erweiterungen · Projekt unterstützen ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/erweiterungen.html"
+  },
+  "reviewTitle": {
+    "message": "Ist sie Ihnen nützlich?"
+  },
+  "reviewText": {
+    "message": "Eine Bewertung im Chrome Web Store hilft anderen, sie zu finden."
+  },
+  "reviewButton": {
+    "message": "Erweiterung bewerten"
+  },
+  "reviewLater": {
+    "message": "Jetzt nicht"
+  },
+  "reviewNever": {
+    "message": "Nicht mehr anzeigen"
+  },
+  "donateTitle": {
+    "message": "Danke, dass Sie sie schon so lange nutzen!"
+  },
+  "donateText": {
+    "message": "Diese Erweiterung ist kostenlos und werbefrei. Wenn sie Ihnen geholfen hat, unterstützt eine freiwillige Spende die Pflege und neue Werkzeuge."
+  },
+  "donateButton": {
+    "message": "Mit einer Spende unterstützen"
+  },
+  "donateLater": {
+    "message": "Jetzt nicht"
+  }
+}

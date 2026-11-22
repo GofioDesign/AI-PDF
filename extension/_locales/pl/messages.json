@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "AI → PDF"
+  },
+  "extShortName": {
+    "message": "AI → PDF"
+  },
+  "extDescription": {
+    "message": "Drukuj lub zapisuj do PDF czaty z ChatGPT, Claude, Gemini, Copilot i innych AI w przejrzystym widoku z podświetlonym kodem."
+  },
+  "actionTitle": {
+    "message": "Drukuj tę rozmowę (Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "Nie można wydrukować tej strony"
+  },
+  "printTitle": {
+    "message": "Podgląd wydruku"
+  },
+  "printButton": {
+    "message": "Drukuj / Zapisz PDF"
+  },
+  "optPrompts": {
+    "message": "Pokaż moje wiadomości"
+  },
+  "optLabels": {
+    "message": "Pokaż, kto mówi"
+  },
+  "optCompact": {
+    "message": "Kompaktowo"
+  },
+  "optDark": {
+    "message": "Ciemny motyw na ekranie"
+  },
+  "optCredit": {
+    "message": "Informacja w stopce"
+  },
+  "optFont": {
+    "message": "Rozmiar"
+  },
+  "fontSmall": {
+    "message": "Mały"
+  },
+  "fontNormal": {
+    "message": "Normalny"
+  },
+  "fontLarge": {
+    "message": "Duży"
+  },
+  "roleUser": {
+    "message": "Ty"
+  },
+  "roleAssistant": {
+    "message": "AI"
+  },
+  "roleContent": {
+    "message": "Treść"
+  },
+  "messagesCount": {
+    "message": "Wiadomości: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Zaznaczony tekst"
+  },
+  "modePage": {
+    "message": "Treść strony (nierozpoznana witryna)"
+  },
+  "notFound": {
+    "message": "Nie znaleziono rozmowy. Kliknij ponownie ikonę rozszerzenia na karcie czatu."
+  },
+  "printHint": {
+    "message": "W oknie drukowania wybierz „Zapisz jako PDF” jako miejsce docelowe."
+  },
+  "source": {
+    "message": "Źródło"
+  },
+  "creditText": {
+    "message": "Utworzono za pomocą"
+  },
+  "welcomeKicker": {
+    "message": "Zainstalowano"
+  },
+  "welcomeLead": {
+    "message": "Zapisuj do PDF lub drukuj rozmowy z dowolną AI w przejrzystym widoku, bez menu i przycisków. Oto jak, w trzech krokach:"
+  },
+  "artExtensions": {
+    "message": "Rozszerzenia"
+  },
+  "step1Title": {
+    "message": "Przypnij rozszerzenie do paska"
+  },
+  "step1Text": {
+    "message": "Kliknij ikonę <strong>puzzla</strong> w prawym górnym rogu Chrome, a potem <strong>pinezkę</strong> obok „AI → PDF”. Ikona będzie zawsze widoczna."
+  },
+  "step2Title": {
+    "message": "Otwórz czat i kliknij ikonę"
+  },
+  "step2Text": {
+    "message": "Otwórz na stronie AI rozmowę, którą chcesz zapisać, i kliknij ikonę rozszerzenia. Przejdzie przez cały czat, także długi."
+  },
+  "step3Title": {
+    "message": "Zapisz PDF"
+  },
+  "step3Text": {
+    "message": "Otworzy się karta z przejrzystym widokiem. Dostosuj, co chcesz (tytuł, rozmiar, pokaż lub ukryj swoje wiadomości), i kliknij <strong>Drukuj / Zapisz PDF</strong>. Jako miejsce docelowe wybierz „Zapisz jako PDF”."
+  },
+  "tipsTitle": {
+    "message": "Wskazówki"
+  },
+  "tipShortcut": {
+    "message": "Skrót klawiszowy: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (na Macu <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Jeśli zaznaczysz fragment tekstu przed kliknięciem ikony, wydrukowany zostanie tylko ten fragment."
+  },
+  "tipOther": {
+    "message": "Na stronach, które nie są czatami AI, drukuje główną treść strony."
+  },
+  "welcomePrivacy": {
+    "message": "Rozszerzenie odczytuje kartę tylko po kliknięciu ikony. Wszystko jest przetwarzane w przeglądarce i nic nie jest wysyłane na serwer."
+  },
+  "welcomeRepo": {
+    "message": "Otwarty kod na GitHubie"
+  },
+  "moreLink": {
+    "message": "Więcej rozszerzeń · Wesprzyj projekt ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "Przydaje się?"
+  },
+  "reviewText": {
+    "message": "Ocena w Chrome Web Store pomaga innym je znaleźć."
+  },
+  "reviewButton": {
+    "message": "Oceń rozszerzenie"
+  },
+  "reviewLater": {
+    "message": "Nie teraz"
+  },
+  "reviewNever": {
+    "message": "Nie pokazuj więcej"
+  },
+  "donateTitle": {
+    "message": "Dziękujemy, że korzystasz z niego tak długo!"
+  },
+  "donateText": {
+    "message": "To rozszerzenie jest darmowe i bez reklam. Jeśli Ci się przydało, dobrowolna darowizna pomaga je utrzymać i tworzyć nowe narzędzia."
+  },
+  "donateButton": {
+    "message": "Wesprzyj darowizną"
+  },
+  "donateLater": {
+    "message": "Nie teraz"
+  }
+}

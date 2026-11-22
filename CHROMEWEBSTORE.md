@@ -1,4 +1,4 @@
-# Chrome Web Store — Chats de IA → Vista limpia + PDF
+# Chrome Web Store — IA → PDF
 
 > Última actualización: 2026-11-22 · Versión 2.0.0
 > Elemento existente: `debjfadjodahfmiabgdclllhgoggaiap` (antes «ChatGPT → Vista limpia + impresión», v1.5.1)
@@ -9,14 +9,14 @@
 
 ## 1. Store listing
 
-**Nombre** (sale del manifest; español por defecto, inglés para el resto)
+**Nombre** (sale del manifest, traducido a 15 idiomas: «IA → PDF», «AI → PDF», «KI → PDF», «YZ → PDF», «ИИ → PDF»)
 ```
-Chats de IA → Vista limpia + PDF
+IA → PDF
 ```
 
 **Descripción breve** (sale del manifest)
 ```
-Imprime o guarda en PDF tus conversaciones de ChatGPT, Claude, Gemini, Copilot y otras IAs en una vista limpia, con código resaltado.
+Imprime o guarda en PDF tus chats de ChatGPT, Claude, Gemini, Copilot y otras IAs en una vista limpia, con código resaltado.
 ```
 
 **Descripción**
@@ -44,12 +44,16 @@ QUÉ OBTIENES
 • Conversaciones completas, también las largas que la web carga a trozos.
 • Un PDF siempre claro y legible, aunque uses el tema oscuro.
 
+EN TU IDIOMA
+Disponible en español, inglés, francés, alemán, italiano, portugués (Brasil y Portugal), neerlandés, polaco, turco, ruso, japonés, coreano y chino (simplificado y tradicional).
+
 AJUSTES ANTES DE IMPRIMIR
 • Edita el título del documento.
 • Oculta tus mensajes y deja solo las respuestas.
 • Muestra u oculta quién habla en cada mensaje.
 • Modo compacto y tres tamaños de letra.
 • Tema oscuro para leer en pantalla.
+• Crédito discreto al pie del PDF, que puedes quitar con una casilla.
 
 CÓMO SE USA
 0. Fija la extensión en la barra (icono de la pieza de puzle → chincheta). Al instalarla verás una pantalla que te lo explica.
@@ -59,7 +63,7 @@ CÓMO SE USA
 4. Pulsa «Imprimir / Guardar PDF» y elige «Guardar como PDF».
 
 PRIVACIDAD
-La extensión solo lee la pestaña cuando tú pulsas el icono. Todo se procesa en tu navegador: no envía tus conversaciones a ningún servidor, no usa analítica ni servicios de terceros.
+La extensión solo lee la pestaña cuando tú pulsas el icono. Todo se procesa en tu navegador: no envía tus conversaciones a ningún servidor, no usa analítica ni servicios de terceros. Solo guarda en tu navegador tus preferencias y un contador de usos para invitarte, de vez en cuando, a valorarla o a donar (siempre voluntario).
 
 CÓDIGO ABIERTO
 https://github.com/GofioDesign/ai-chat-print
@@ -121,7 +125,7 @@ Used together with activeTab to run the extraction script in the current tab aft
 
 **storage justification**
 ```
-Stores the user's print-view preferences locally (font size, compact mode, show/hide prompts and labels) and temporarily holds the extracted conversation in session storage while the print view tab opens. Session data is cleared automatically when the browser closes.
+Stores locally the user's print-view preferences (font size, compact mode, footer credit, show/hide prompts and labels), the install date and a local usage counter (used only to occasionally show an optional rating invitation and, at most once a year, an optional donation invitation; never transmitted), and temporarily holds the extracted conversation in session storage while the print view tab opens. Session data is cleared automatically when the browser closes.
 ```
 
 **Host permissions:** ninguno (no aparece este campo).
@@ -141,5 +145,5 @@ https://github.com/GofioDesign/ai-chat-print/blob/main/PRIVACY.md
 
 | Versión | Fecha | Cambios | Estado |
 |---|---|---|---|
-| 2.0.0 | 2026-11-22 | Pantalla de bienvenida (es/en) al instalar y al actualizar desde la 1.x; icono nuevo. Reescritura: soporte para varias IAs, cualquier web y selección; recorre chats largos; opciones de vista; sin permisos de host | Borrador |
+| 2.0.0 | 2026-11-22 | Nombre «IA → PDF»; 15 idiomas; crédito opcional al pie; invitaciones locales a valorar (cada 5 usos) y donar (1 vez al año). Pantalla de bienvenida (es/en) al instalar y al actualizar desde la 1.x; icono nuevo. Reescritura: soporte para varias IAs, cualquier web y selección; recorre chats largos; opciones de vista; sin permisos de host | Borrador |
 | 1.5.1 | 2025-09-29 | Versión anterior (solo ChatGPT) | Publicada |

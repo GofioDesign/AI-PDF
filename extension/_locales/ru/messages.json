@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "ИИ → PDF"
+  },
+  "extShortName": {
+    "message": "ИИ → PDF"
+  },
+  "extDescription": {
+    "message": "Печатайте или сохраняйте в PDF чаты ChatGPT, Claude, Gemini, Copilot и других ИИ в чистом виде с подсветкой кода."
+  },
+  "actionTitle": {
+    "message": "Распечатать этот диалог (Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "Эту страницу нельзя распечатать"
+  },
+  "printTitle": {
+    "message": "Предпросмотр печати"
+  },
+  "printButton": {
+    "message": "Печать / Сохранить PDF"
+  },
+  "optPrompts": {
+    "message": "Показывать мои сообщения"
+  },
+  "optLabels": {
+    "message": "Показывать, кто говорит"
+  },
+  "optCompact": {
+    "message": "Компактно"
+  },
+  "optDark": {
+    "message": "Тёмная тема на экране"
+  },
+  "optCredit": {
+    "message": "Подпись в нижнем колонтитуле"
+  },
+  "optFont": {
+    "message": "Размер"
+  },
+  "fontSmall": {
+    "message": "Мелкий"
+  },
+  "fontNormal": {
+    "message": "Обычный"
+  },
+  "fontLarge": {
+    "message": "Крупный"
+  },
+  "roleUser": {
+    "message": "Вы"
+  },
+  "roleAssistant": {
+    "message": "ИИ"
+  },
+  "roleContent": {
+    "message": "Содержимое"
+  },
+  "messagesCount": {
+    "message": "Сообщений: $COUNT$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Выделенный текст"
+  },
+  "modePage": {
+    "message": "Содержимое страницы (сайт не распознан)"
+  },
+  "notFound": {
+    "message": "Диалог не найден. Нажмите значок расширения ещё раз на вкладке с чатом."
+  },
+  "printHint": {
+    "message": "В окне печати выберите «Сохранить как PDF» в качестве принтера."
+  },
+  "source": {
+    "message": "Источник"
+  },
+  "creditText": {
+    "message": "Сделано с помощью"
+  },
+  "welcomeKicker": {
+    "message": "Установлено"
+  },
+  "welcomeLead": {
+    "message": "Сохраняйте в PDF или печатайте диалоги с любым ИИ в чистом виде, без меню и кнопок. Вот как, в три шага:"
+  },
+  "artExtensions": {
+    "message": "Расширения"
+  },
+  "step1Title": {
+    "message": "Закрепите расширение на панели"
+  },
+  "step1Text": {
+    "message": "Нажмите значок <strong>пазла</strong> в правом верхнем углу Chrome, затем <strong>булавку</strong> рядом с «ИИ → PDF». Значок всегда будет на виду."
+  },
+  "step2Title": {
+    "message": "Откройте чат и нажмите значок"
+  },
+  "step2Text": {
+    "message": "Откройте на сайте ИИ диалог, который хотите сохранить, и нажмите значок расширения. Оно пройдёт весь чат, даже длинный."
+  },
+  "step3Title": {
+    "message": "Сохраните PDF"
+  },
+  "step3Text": {
+    "message": "Откроется вкладка с чистым видом. Настройте, что нужно (заголовок, размер, показать или скрыть свои сообщения), и нажмите <strong>Печать / Сохранить PDF</strong>. В качестве принтера выберите «Сохранить как PDF»."
+  },
+  "tipsTitle": {
+    "message": "Советы"
+  },
+  "tipShortcut": {
+    "message": "Сочетание клавиш: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (на Mac — <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Если перед нажатием значка выделить фрагмент текста, будет напечатан только он."
+  },
+  "tipOther": {
+    "message": "На сайтах, которые не являются чатами с ИИ, печатается основное содержимое страницы."
+  },
+  "welcomePrivacy": {
+    "message": "Расширение читает вкладку, только когда вы нажимаете значок. Всё обрабатывается в браузере, ничего не отправляется на серверы."
+  },
+  "welcomeRepo": {
+    "message": "Открытый код на GitHub"
+  },
+  "moreLink": {
+    "message": "Другие расширения · Поддержать проект ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "Расширение вам полезно?"
+  },
+  "reviewText": {
+    "message": "Оценка в Chrome Web Store помогает другим его найти."
+  },
+  "reviewButton": {
+    "message": "Оценить расширение"
+  },
+  "reviewLater": {
+    "message": "Не сейчас"
+  },
+  "reviewNever": {
+    "message": "Больше не показывать"
+  },
+  "donateTitle": {
+    "message": "Спасибо, что пользуетесь им всё это время!"
+  },
+  "donateText": {
+    "message": "Это расширение бесплатное и без рекламы. Если оно вам помогло, добровольное пожертвование поможет его поддерживать и создавать новые инструменты."
+  },
+  "donateButton": {
+    "message": "Поддержать пожертвованием"
+  },
+  "donateLater": {
+    "message": "Не сейчас"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "YZ → PDF"
+  },
+  "extShortName": {
+    "message": "YZ → PDF"
+  },
+  "extDescription": {
+    "message": "ChatGPT, Claude, Gemini, Copilot ve diğer yapay zekâ sohbetlerinizi vurgulu kodla temiz bir görünümde yazdırın veya PDF kaydedin."
+  },
+  "actionTitle": {
+    "message": "Bu sohbeti yazdır (Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "Bu sayfa yazdırılamıyor"
+  },
+  "printTitle": {
+    "message": "Baskı önizleme"
+  },
+  "printButton": {
+    "message": "Yazdır / PDF kaydet"
+  },
+  "optPrompts": {
+    "message": "Mesajlarımı göster"
+  },
+  "optLabels": {
+    "message": "Kimin konuştuğunu göster"
+  },
+  "optCompact": {
+    "message": "Sıkı"
+  },
+  "optDark": {
+    "message": "Ekranda koyu tema"
+  },
+  "optCredit": {
+    "message": "Altbilgide kaynak"
+  },
+  "optFont": {
+    "message": "Boyut"
+  },
+  "fontSmall": {
+    "message": "Küçük"
+  },
+  "fontNormal": {
+    "message": "Normal"
+  },
+  "fontLarge": {
+    "message": "Büyük"
+  },
+  "roleUser": {
+    "message": "Siz"
+  },
+  "roleAssistant": {
+    "message": "YZ"
+  },
+  "roleContent": {
+    "message": "İçerik"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ mesaj",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Seçili metin"
+  },
+  "modePage": {
+    "message": "Sayfa içeriği (site tanınmadı)"
+  },
+  "notFound": {
+    "message": "Sohbet bulunamadı. Sohbet sekmesinde uzantı simgesine tekrar tıklayın."
+  },
+  "printHint": {
+    "message": "Yazdırma penceresinde hedef olarak “PDF olarak kaydet”i seçin."
+  },
+  "source": {
+    "message": "Kaynak"
+  },
+  "creditText": {
+    "message": "Şununla oluşturuldu:"
+  },
+  "welcomeKicker": {
+    "message": "Kurulum tamamlandı"
+  },
+  "welcomeLead": {
+    "message": "Herhangi bir yapay zekâyla yaptığınız sohbetleri menü ve düğme olmadan, temiz bir görünümde PDF olarak kaydedin veya yazdırın. Üç adımda şöyle:"
+  },
+  "artExtensions": {
+    "message": "Uzantılar"
+  },
+  "step1Title": {
+    "message": "Uzantıyı araç çubuğuna sabitleyin"
+  },
+  "step1Text": {
+    "message": "Chrome’un sağ üstündeki <strong>yapboz parçası</strong> simgesine, ardından “YZ → PDF” yanındaki <strong>raptiyeye</strong> tıklayın. Simge her zaman görünür kalır."
+  },
+  "step2Title": {
+    "message": "Sohbeti açın ve simgeye tıklayın"
+  },
+  "step2Text": {
+    "message": "Kaydetmek istediğiniz sohbeti yapay zekânın sitesinde açın ve uzantı simgesine tıklayın. Uzun olsa bile tüm sohbeti dolaşır."
+  },
+  "step3Title": {
+    "message": "PDF’yi kaydedin"
+  },
+  "step3Text": {
+    "message": "Temiz görünümle yeni bir sekme açılır. İstediğinizi ayarlayın (başlık, boyut, mesajlarınızı gösterme veya gizleme) ve <strong>Yazdır / PDF kaydet</strong>’e tıklayın. Hedef olarak “PDF olarak kaydet”i seçin."
+  },
+  "tipsTitle": {
+    "message": "İpuçları"
+  },
+  "tipShortcut": {
+    "message": "Klavye kısayolu: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (Mac’te <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Simgeye tıklamadan önce bir metin seçerseniz yalnızca o kısım yazdırılır."
+  },
+  "tipOther": {
+    "message": "Yapay zekâ sohbeti olmayan sitelerde sayfanın ana içeriğini yazdırır."
+  },
+  "welcomePrivacy": {
+    "message": "Uzantı sekmeyi yalnızca simgeye tıkladığınızda okur. Her şey tarayıcınızda işlenir, hiçbir şey sunucuya gönderilmez."
+  },
+  "welcomeRepo": {
+    "message": "GitHub’da açık kaynak"
+  },
+  "moreLink": {
+    "message": "Diğer uzantılar · Projeye destek olun ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "İşinize yarıyor mu?"
+  },
+  "reviewText": {
+    "message": "Chrome Web Store’da bir değerlendirme, başkalarının onu bulmasına yardımcı olur."
+  },
+  "reviewButton": {
+    "message": "Uzantıyı değerlendir"
+  },
+  "reviewLater": {
+    "message": "Şimdi değil"
+  },
+  "reviewNever": {
+    "message": "Bir daha gösterme"
+  },
+  "donateTitle": {
+    "message": "Bunca zamandır kullandığınız için teşekkürler!"
+  },
+  "donateText": {
+    "message": "Bu uzantı ücretsiz ve reklamsızdır. İşinize yaradıysa, gönüllü bir bağış onu sürdürmeye ve yeni araçlar yapmaya yardımcı olur."
+  },
+  "donateButton": {
+    "message": "Bağışla destek ol"
+  },
+  "donateLater": {
+    "message": "Şimdi değil"
+  }
+}

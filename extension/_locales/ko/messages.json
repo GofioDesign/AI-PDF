@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "AI → PDF"
+  },
+  "extShortName": {
+    "message": "AI → PDF"
+  },
+  "extDescription": {
+    "message": "ChatGPT, Claude, Gemini, Copilot 등 AI 채팅을 코드 강조가 적용된 깔끔한 화면으로 인쇄하거나 PDF로 저장하세요."
+  },
+  "actionTitle": {
+    "message": "이 대화 인쇄(Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "이 페이지는 인쇄할 수 없습니다"
+  },
+  "printTitle": {
+    "message": "인쇄 미리보기"
+  },
+  "printButton": {
+    "message": "인쇄 / PDF 저장"
+  },
+  "optPrompts": {
+    "message": "내 메시지 표시"
+  },
+  "optLabels": {
+    "message": "화자 표시"
+  },
+  "optCompact": {
+    "message": "간결하게"
+  },
+  "optDark": {
+    "message": "화면에서 어두운 테마"
+  },
+  "optCredit": {
+    "message": "바닥글에 출처 표시"
+  },
+  "optFont": {
+    "message": "크기"
+  },
+  "fontSmall": {
+    "message": "작게"
+  },
+  "fontNormal": {
+    "message": "보통"
+  },
+  "fontLarge": {
+    "message": "크게"
+  },
+  "roleUser": {
+    "message": "나"
+  },
+  "roleAssistant": {
+    "message": "AI"
+  },
+  "roleContent": {
+    "message": "내용"
+  },
+  "messagesCount": {
+    "message": "메시지 $COUNT$개",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "선택한 텍스트"
+  },
+  "modePage": {
+    "message": "페이지 내용(인식되지 않은 사이트)"
+  },
+  "notFound": {
+    "message": "대화를 찾을 수 없습니다. 채팅 탭에서 확장 프로그램 아이콘을 다시 클릭하세요."
+  },
+  "printHint": {
+    "message": "인쇄 대화상자에서 대상으로 ‘PDF로 저장’을 선택하세요."
+  },
+  "source": {
+    "message": "출처"
+  },
+  "creditText": {
+    "message": "제작 도구:"
+  },
+  "welcomeKicker": {
+    "message": "설치 완료"
+  },
+  "welcomeLead": {
+    "message": "어떤 AI와의 대화든 메뉴나 버튼 없이 깔끔한 화면으로 PDF로 저장하거나 인쇄하세요. 사용법은 세 단계입니다:"
+  },
+  "artExtensions": {
+    "message": "확장 프로그램"
+  },
+  "step1Title": {
+    "message": "확장 프로그램을 툴바에 고정"
+  },
+  "step1Text": {
+    "message": "Chrome 오른쪽 위의 <strong>퍼즐 조각</strong> 아이콘을 클릭한 다음 ‘AI → PDF’ 옆의 <strong>고정핀</strong>을 클릭하세요. 아이콘이 항상 표시됩니다."
+  },
+  "step2Title": {
+    "message": "채팅을 열고 아이콘 클릭"
+  },
+  "step2Text": {
+    "message": "저장하려는 대화를 AI 사이트에서 열고 확장 프로그램 아이콘을 클릭하세요. 긴 대화도 전체를 불러옵니다."
+  },
+  "step3Title": {
+    "message": "PDF 저장"
+  },
+  "step3Text": {
+    "message": "깔끔한 화면의 탭이 열립니다. 제목, 크기, 내 메시지 표시 여부 등을 조정하고 <strong>인쇄 / PDF 저장</strong>을 클릭하세요. 대상에서 ‘PDF로 저장’을 선택합니다."
+  },
+  "tipsTitle": {
+    "message": "팁"
+  },
+  "tipShortcut": {
+    "message": "단축키: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (Mac에서는 <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "아이콘을 클릭하기 전에 텍스트를 선택하면 그 부분만 인쇄됩니다."
+  },
+  "tipOther": {
+    "message": "AI 채팅이 아닌 사이트에서는 페이지의 주요 내용을 인쇄합니다."
+  },
+  "welcomePrivacy": {
+    "message": "확장 프로그램은 아이콘을 클릭할 때만 탭을 읽습니다. 모든 처리는 브라우저에서 이루어지며 어떤 서버로도 전송되지 않습니다."
+  },
+  "welcomeRepo": {
+    "message": "GitHub 오픈 소스"
+  },
+  "moreLink": {
+    "message": "다른 확장 프로그램 · 프로젝트 후원 ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "도움이 되고 있나요?"
+  },
+  "reviewText": {
+    "message": "Chrome 웹 스토어에 평가를 남기면 다른 사람들이 찾는 데 도움이 됩니다."
+  },
+  "reviewButton": {
+    "message": "확장 프로그램 평가"
+  },
+  "reviewLater": {
+    "message": "나중에"
+  },
+  "reviewNever": {
+    "message": "다시 표시 안 함"
+  },
+  "donateTitle": {
+    "message": "오랫동안 사용해 주셔서 감사합니다!"
+  },
+  "donateText": {
+    "message": "이 확장 프로그램은 무료이며 광고가 없습니다. 도움이 되셨다면 자발적인 후원이 유지 관리와 새로운 도구 제작에 힘이 됩니다."
+  },
+  "donateButton": {
+    "message": "후원하기"
+  },
+  "donateLater": {
+    "message": "나중에"
+  }
+}

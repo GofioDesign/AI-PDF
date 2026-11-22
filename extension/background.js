@@ -3,6 +3,14 @@
 // Pantalla de bienvenida: al instalar, y al actualizar desde la 1.x
 // (los usuarios de la versión anterior descubren que ahora vale para cualquier IA).
 chrome.runtime.onInstalled.addListener(async ({ reason, previousVersion }) => {
+  // Fecha de instalación (solo en local) para el aviso anual de donación.
+  // A quien viene de la 1.x se le cuenta desde esta actualización.
+  try {
+    const { installDate } = await chrome.storage.local.get('installDate');
+    if (!installDate) await chrome.storage.local.set({ installDate: Date.now() });
+  } catch (err) {
+    console.warn(err);
+  }
   const fromV1 = reason === 'update' && /^1\./.test(previousVersion || '');
   if (reason === 'install' || fromV1) {
     try {

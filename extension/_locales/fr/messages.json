@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "IA → PDF"
+  },
+  "extShortName": {
+    "message": "IA → PDF"
+  },
+  "extDescription": {
+    "message": "Imprimez ou enregistrez en PDF vos chats ChatGPT, Claude, Gemini, Copilot et autres IA dans une vue épurée, code coloré."
+  },
+  "actionTitle": {
+    "message": "Imprimer cette conversation (Alt+Maj+P)"
+  },
+  "badgeError": {
+    "message": "Impossible d’imprimer cette page"
+  },
+  "printTitle": {
+    "message": "Aperçu avant impression"
+  },
+  "printButton": {
+    "message": "Imprimer / Enregistrer en PDF"
+  },
+  "optPrompts": {
+    "message": "Afficher mes messages"
+  },
+  "optLabels": {
+    "message": "Afficher qui parle"
+  },
+  "optCompact": {
+    "message": "Compact"
+  },
+  "optDark": {
+    "message": "Thème sombre à l’écran"
+  },
+  "optCredit": {
+    "message": "Mention en pied de page"
+  },
+  "optFont": {
+    "message": "Taille"
+  },
+  "fontSmall": {
+    "message": "Petite"
+  },
+  "fontNormal": {
+    "message": "Normale"
+  },
+  "fontLarge": {
+    "message": "Grande"
+  },
+  "roleUser": {
+    "message": "Vous"
+  },
+  "roleAssistant": {
+    "message": "IA"
+  },
+  "roleContent": {
+    "message": "Contenu"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ messages",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Texte sélectionné"
+  },
+  "modePage": {
+    "message": "Contenu de la page (site non reconnu)"
+  },
+  "notFound": {
+    "message": "Conversation introuvable. Cliquez de nouveau sur l’icône de l’extension dans l’onglet du chat."
+  },
+  "printHint": {
+    "message": "Dans la boîte d’impression, choisissez « Enregistrer au format PDF » comme destination."
+  },
+  "source": {
+    "message": "Source"
+  },
+  "creditText": {
+    "message": "Créé avec"
+  },
+  "welcomeKicker": {
+    "message": "C’est installé"
+  },
+  "welcomeLead": {
+    "message": "Enregistrez en PDF ou imprimez vos conversations avec n’importe quelle IA dans une vue épurée, sans menus ni boutons. Voici comment, en trois étapes :"
+  },
+  "artExtensions": {
+    "message": "Extensions"
+  },
+  "step1Title": {
+    "message": "Épinglez l’extension dans la barre"
+  },
+  "step1Text": {
+    "message": "Cliquez sur l’icône de la <strong>pièce de puzzle</strong> en haut à droite de Chrome, puis sur l’<strong>épingle</strong> à côté de « IA → PDF ». L’icône restera toujours visible."
+  },
+  "step2Title": {
+    "message": "Ouvrez le chat et cliquez sur l’icône"
+  },
+  "step2Text": {
+    "message": "Affichez sur le site de l’IA la conversation à enregistrer et cliquez sur l’icône de l’extension. Elle parcourt tout le chat, même long."
+  },
+  "step3Title": {
+    "message": "Enregistrez le PDF"
+  },
+  "step3Text": {
+    "message": "Un onglet s’ouvre avec la vue épurée. Ajustez ce que vous voulez (titre, taille, afficher ou masquer vos messages) et cliquez sur <strong>Imprimer / Enregistrer en PDF</strong>. Comme destination, choisissez « Enregistrer au format PDF »."
+  },
+  "tipsTitle": {
+    "message": "Astuces"
+  },
+  "tipShortcut": {
+    "message": "Raccourci clavier : <kbd>Alt</kbd>+<kbd>Maj</kbd>+<kbd>P</kbd> (sur Mac, <kbd>Option</kbd>+<kbd>Maj</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Si vous sélectionnez un passage avant de cliquer sur l’icône, seul ce passage est imprimé."
+  },
+  "tipOther": {
+    "message": "Sur les sites qui ne sont pas des chats d’IA, elle imprime le contenu principal de la page."
+  },
+  "welcomePrivacy": {
+    "message": "L’extension ne lit l’onglet que lorsque vous cliquez sur l’icône. Tout est traité dans votre navigateur et rien n’est envoyé à un serveur."
+  },
+  "welcomeRepo": {
+    "message": "Code source sur GitHub"
+  },
+  "moreLink": {
+    "message": "Plus d’extensions · Soutenir le projet ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions-fr.html"
+  },
+  "reviewTitle": {
+    "message": "Elle vous est utile ?"
+  },
+  "reviewText": {
+    "message": "Une note sur le Chrome Web Store aide d’autres personnes à la trouver."
+  },
+  "reviewButton": {
+    "message": "Noter l’extension"
+  },
+  "reviewLater": {
+    "message": "Plus tard"
+  },
+  "reviewNever": {
+    "message": "Ne plus afficher"
+  },
+  "donateTitle": {
+    "message": "Merci de l’utiliser depuis tout ce temps !"
+  },
+  "donateText": {
+    "message": "Cette extension est gratuite et sans publicité. Si elle vous a été utile, un don volontaire aide à la maintenir et à créer de nouveaux outils."
+  },
+  "donateButton": {
+    "message": "Faire un don"
+  },
+  "donateLater": {
+    "message": "Plus tard"
+  }
+}

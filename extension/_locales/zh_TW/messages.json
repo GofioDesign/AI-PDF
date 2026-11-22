@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "AI → PDF"
+  },
+  "extShortName": {
+    "message": "AI → PDF"
+  },
+  "extDescription": {
+    "message": "以簡潔檢視列印或儲存 ChatGPT、Claude、Gemini、Copilot 等 AI 聊天為 PDF，程式碼醒目顯示。"
+  },
+  "actionTitle": {
+    "message": "列印這段對話（Alt+Shift+P）"
+  },
+  "badgeError": {
+    "message": "無法列印此頁面"
+  },
+  "printTitle": {
+    "message": "預覽列印"
+  },
+  "printButton": {
+    "message": "列印 / 儲存 PDF"
+  },
+  "optPrompts": {
+    "message": "顯示我的訊息"
+  },
+  "optLabels": {
+    "message": "顯示發言者"
+  },
+  "optCompact": {
+    "message": "緊湊"
+  },
+  "optDark": {
+    "message": "螢幕深色主題"
+  },
+  "optCredit": {
+    "message": "頁尾署名"
+  },
+  "optFont": {
+    "message": "字級"
+  },
+  "fontSmall": {
+    "message": "小"
+  },
+  "fontNormal": {
+    "message": "標準"
+  },
+  "fontLarge": {
+    "message": "大"
+  },
+  "roleUser": {
+    "message": "你"
+  },
+  "roleAssistant": {
+    "message": "AI"
+  },
+  "roleContent": {
+    "message": "內容"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ 則訊息",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "所選文字"
+  },
+  "modePage": {
+    "message": "頁面內容（未辨識的網站）"
+  },
+  "notFound": {
+    "message": "找不到對話。請在聊天分頁中再次點選擴充功能圖示。"
+  },
+  "printHint": {
+    "message": "在列印對話框中，將目的地設為「另存為 PDF」。"
+  },
+  "source": {
+    "message": "來源"
+  },
+  "creditText": {
+    "message": "製作工具："
+  },
+  "welcomeKicker": {
+    "message": "安裝完成"
+  },
+  "welcomeLead": {
+    "message": "將你與任何 AI 的對話以簡潔檢視儲存為 PDF 或列印，沒有選單和按鈕。只要三個步驟："
+  },
+  "artExtensions": {
+    "message": "擴充功能"
+  },
+  "step1Title": {
+    "message": "將擴充功能固定到工具列"
+  },
+  "step1Text": {
+    "message": "點選 Chrome 右上角的<strong>拼圖</strong>圖示，再點選「AI → PDF」旁的<strong>圖釘</strong>。圖示就會一直顯示。"
+  },
+  "step2Title": {
+    "message": "開啟聊天並點選圖示"
+  },
+  "step2Text": {
+    "message": "在 AI 網站上開啟要儲存的對話，然後點選擴充功能圖示。即使對話很長，也會完整讀取。"
+  },
+  "step3Title": {
+    "message": "儲存 PDF"
+  },
+  "step3Text": {
+    "message": "會開啟一個顯示簡潔檢視的分頁。依需要調整（標題、字級、顯示或隱藏你的訊息），然後點選<strong>列印 / 儲存 PDF</strong>。目的地選擇「另存為 PDF」。"
+  },
+  "tipsTitle": {
+    "message": "小技巧"
+  },
+  "tipShortcut": {
+    "message": "快速鍵：<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>（Mac 上為 <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>）。"
+  },
+  "tipSelection": {
+    "message": "如果在點選圖示前選取一段文字，就只會列印這部分。"
+  },
+  "tipOther": {
+    "message": "在非 AI 聊天的網站上，會列印頁面的主要內容。"
+  },
+  "welcomePrivacy": {
+    "message": "只有在你點選圖示時，擴充功能才會讀取分頁。所有處理都在瀏覽器中完成，不會傳送任何資料到伺服器。"
+  },
+  "welcomeRepo": {
+    "message": "GitHub 開放原始碼"
+  },
+  "moreLink": {
+    "message": "更多擴充功能 · 支持這個專案 ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "覺得實用嗎？"
+  },
+  "reviewText": {
+    "message": "在 Chrome 線上應用程式商店給予評分，可以幫助更多人找到它。"
+  },
+  "reviewButton": {
+    "message": "為擴充功能評分"
+  },
+  "reviewLater": {
+    "message": "稍後再說"
+  },
+  "reviewNever": {
+    "message": "不再顯示"
+  },
+  "donateTitle": {
+    "message": "感謝你一直以來的使用！"
+  },
+  "donateText": {
+    "message": "這個擴充功能免費且沒有廣告。如果它對你有幫助，自願捐款可以支持維護並開發新工具。"
+  },
+  "donateButton": {
+    "message": "捐款支持"
+  },
+  "donateLater": {
+    "message": "稍後再說"
+  }
+}

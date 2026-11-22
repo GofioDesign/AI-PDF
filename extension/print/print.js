@@ -63,13 +63,14 @@ function sanitize(html) {
 // ---------------------------------------------------------------------------
 // Opciones (se recuerdan entre usos)
 // ---------------------------------------------------------------------------
-const OPTS = { prompts: true, labels: true, compact: false, dark: false, font: 'normal' };
+const OPTS = { prompts: true, labels: true, compact: false, dark: false, credit: true, font: 'normal' };
 
 function applyOpts(o) {
   document.body.classList.toggle('no-prompts', !o.prompts);
   document.body.classList.toggle('no-labels', !o.labels);
   document.body.classList.toggle('compact', o.compact);
   document.body.classList.toggle('dark', o.dark);
+  document.body.classList.toggle('no-credit', !o.credit);
   document.body.classList.remove('font-small', 'font-normal', 'font-large');
   document.body.classList.add(`font-${o.font}`);
 }
@@ -77,7 +78,7 @@ function applyOpts(o) {
 async function initOpts() {
   let o = { ...OPTS };
   try { o = { ...OPTS, ...(await chrome.storage.local.get(OPTS)) }; } catch {}
-  const map = { optPrompts: 'prompts', optLabels: 'labels', optCompact: 'compact', optDark: 'dark' };
+  const map = { optPrompts: 'prompts', optLabels: 'labels', optCompact: 'compact', optDark: 'dark', optCredit: 'credit' };
   for (const [id, key] of Object.entries(map)) {
     const el = document.getElementById(id);
     el.checked = o[key];
@@ -154,6 +155,51 @@ function render(data) {
   }
 }
 
+// ---------------------------------------------------------------------------
+// Avisos de donación (1 vez por cada año desde la instalación) y de valoración
+// (cada 5 usos). Todo se cuenta en local: nada sale del navegador.
+// ---------------------------------------------------------------------------
+const REVIEW_URL = 'https://chromewebstore.google.com/detail/debjfadjodahfmiabgdclllhgoggaiap/reviews';
+const YEAR_MS = 365.25 * 24 * 3600 * 1000;
+
+async function maybeAsk() {
+  const st = await chrome.storage.local.get({
+    installDate: 0, uses: 0, donateYearsShown: 0, reviewDone: false, reviewShown: 0
+  });
+  const uses = st.uses + 1;
+  const update = { uses };
+  if (!st.installDate) update.installDate = Date.now();
+  const years = st.installDate ? Math.floor((Date.now() - st.installDate) / YEAR_MS) : 0;
+
+  if (years >= 1 && st.donateYearsShown < years) {
+    update.donateYearsShown = years;          // solo una vez por año
+    await chrome.storage.local.set(update);
+    const dlg = document.getElementById('donateDialog');
+    document.getElementById('donateGo').href = `${t('moreUrl')}#donar`;
+    document.getElementById('donateGo').addEventListener('click', () => dlg.close());
+    document.getElementById('donateLater').addEventListener('click', () => dlg.close());
+    dlg.showModal();
+    return;                                   // no mostrar dos avisos a la vez
+  }
+
+  if (!st.reviewDone && uses % 5 === 0) {
+    const shown = st.reviewShown + 1;
+    update.reviewShown = shown;
+    await chrome.storage.local.set(update);
+    const bar = document.getElementById('reviewBar');
+    const never = document.getElementById('reviewNever');
+    const done = async () => { bar.hidden = true; try { await chrome.storage.local.set({ reviewDone: true }); } catch {} };
+    document.getElementById('reviewGo').href = REVIEW_URL;
+    document.getElementById('reviewGo').addEventListener('click', done);
+    document.getElementById('reviewLater').addEventListener('click', () => { bar.hidden = true; });
+    if (shown >= 3) { never.hidden = false; never.addEventListener('click', done); }
+    bar.hidden = false;
+    return;
+  }
+
+  await chrome.storage.local.set(update);
+}
+
 function notFound() {
   document.getElementById('docTitle').textContent = '—';
   const p = document.createElement('p');
@@ -166,6 +212,9 @@ function notFound() {
   document.querySelectorAll('[data-i18n]').forEach((el) => { el.textContent = t(el.dataset.i18n); });
   document.title = t('printTitle');
   document.getElementById('moreLink').href = t('moreUrl');
+  const cl = document.getElementById('creditLink');
+  cl.textContent = t('extShortName');
+  cl.href = t('moreUrl');
   await initOpts();
   document.getElementById('printBtn').addEventListener('click', () => window.print());
 
@@ -176,6 +225,7 @@ function notFound() {
     const data = stored[key];
     if (!data) { notFound(); return; }
     render(data);
+    try { await maybeAsk(); } catch (err) { console.warn(err); }
     // Limpieza: borrar documentos de más de 6 horas (los datos de sesión
     // desaparecen de todas formas al cerrar Chrome).
     const all = await chrome.storage.session.get(null);

@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "IA → PDF"
+  },
+  "extShortName": {
+    "message": "IA → PDF"
+  },
+  "extDescription": {
+    "message": "Stampa o salva in PDF le chat di ChatGPT, Claude, Gemini, Copilot e altre IA in una vista pulita, con codice evidenziato."
+  },
+  "actionTitle": {
+    "message": "Stampa questa conversazione (Alt+Maiusc+P)"
+  },
+  "badgeError": {
+    "message": "Impossibile stampare questa pagina"
+  },
+  "printTitle": {
+    "message": "Anteprima di stampa"
+  },
+  "printButton": {
+    "message": "Stampa / Salva PDF"
+  },
+  "optPrompts": {
+    "message": "Mostra i miei messaggi"
+  },
+  "optLabels": {
+    "message": "Mostra chi parla"
+  },
+  "optCompact": {
+    "message": "Compatto"
+  },
+  "optDark": {
+    "message": "Tema scuro a schermo"
+  },
+  "optCredit": {
+    "message": "Credito a piè di pagina"
+  },
+  "optFont": {
+    "message": "Dimensione"
+  },
+  "fontSmall": {
+    "message": "Piccola"
+  },
+  "fontNormal": {
+    "message": "Normale"
+  },
+  "fontLarge": {
+    "message": "Grande"
+  },
+  "roleUser": {
+    "message": "Tu"
+  },
+  "roleAssistant": {
+    "message": "IA"
+  },
+  "roleContent": {
+    "message": "Contenuto"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ messaggi",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Testo selezionato"
+  },
+  "modePage": {
+    "message": "Contenuto della pagina (sito non riconosciuto)"
+  },
+  "notFound": {
+    "message": "Conversazione non trovata. Fai di nuovo clic sull’icona dell’estensione nella scheda della chat."
+  },
+  "printHint": {
+    "message": "Nella finestra di stampa scegli «Salva come PDF» come destinazione."
+  },
+  "source": {
+    "message": "Fonte"
+  },
+  "creditText": {
+    "message": "Creato con"
+  },
+  "welcomeKicker": {
+    "message": "Installazione completata"
+  },
+  "welcomeLead": {
+    "message": "Salva in PDF o stampa le tue conversazioni con qualsiasi IA in una vista pulita, senza menu né pulsanti. Ecco come, in tre passi:"
+  },
+  "artExtensions": {
+    "message": "Estensioni"
+  },
+  "step1Title": {
+    "message": "Fissa l’estensione nella barra"
+  },
+  "step1Text": {
+    "message": "Fai clic sull’icona del <strong>pezzo di puzzle</strong> in alto a destra in Chrome e poi sulla <strong>puntina</strong> accanto a «IA → PDF». Così l’icona resterà sempre visibile."
+  },
+  "step2Title": {
+    "message": "Apri la chat e fai clic sull’icona"
+  },
+  "step2Text": {
+    "message": "Apri sul sito dell’IA la conversazione da salvare e fai clic sull’icona dell’estensione. Percorre tutta la chat, anche se è lunga."
+  },
+  "step3Title": {
+    "message": "Salva il PDF"
+  },
+  "step3Text": {
+    "message": "Si apre una scheda con la vista pulita. Regola ciò che vuoi (titolo, dimensione, mostrare o nascondere i tuoi messaggi) e fai clic su <strong>Stampa / Salva PDF</strong>. Come destinazione scegli «Salva come PDF»."
+  },
+  "tipsTitle": {
+    "message": "Suggerimenti"
+  },
+  "tipShortcut": {
+    "message": "Scorciatoia da tastiera: <kbd>Alt</kbd>+<kbd>Maiusc</kbd>+<kbd>P</kbd> (su Mac, <kbd>Option</kbd>+<kbd>Maiusc</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Se selezioni una parte del testo prima di fare clic sull’icona, viene stampata solo quella parte."
+  },
+  "tipOther": {
+    "message": "Sui siti che non sono chat di IA, stampa il contenuto principale della pagina."
+  },
+  "welcomePrivacy": {
+    "message": "L’estensione legge la scheda solo quando fai clic sull’icona. Tutto viene elaborato nel tuo browser e nulla viene inviato a server."
+  },
+  "welcomeRepo": {
+    "message": "Codice aperto su GitHub"
+  },
+  "moreLink": {
+    "message": "Altre estensioni · Sostieni il progetto ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "Ti è utile?"
+  },
+  "reviewText": {
+    "message": "Una valutazione sul Chrome Web Store aiuta altre persone a trovarla."
+  },
+  "reviewButton": {
+    "message": "Valuta l’estensione"
+  },
+  "reviewLater": {
+    "message": "Non ora"
+  },
+  "reviewNever": {
+    "message": "Non mostrare più"
+  },
+  "donateTitle": {
+    "message": "Grazie per averla usata tutto questo tempo!"
+  },
+  "donateText": {
+    "message": "Questa estensione è gratuita e senza pubblicità. Se ti è stata utile, una donazione volontaria aiuta a mantenerla e a creare nuovi strumenti."
+  },
+  "donateButton": {
+    "message": "Sostieni con una donazione"
+  },
+  "donateLater": {
+    "message": "Non ora"
+  }
+}

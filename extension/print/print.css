@@ -134,7 +134,41 @@ body.dark .hljs-section, body.dark .hljs-name, body.dark .hljs-selector-tag { co
 body.dark .hljs-symbol, body.dark .hljs-bullet, body.dark .hljs-link { color: #ffa657; }
 body.dark .hljs-built_in, body.dark .hljs-type { color: #ffa657; }
 
+.credit {
+  margin-top: 36px; padding-top: 12px; border-top: 1px solid var(--line);
+  font-size: .78em; color: var(--muted); text-align: center;
+}
+.credit a { color: inherit; text-decoration: none; font-weight: 600; }
+body.no-credit .credit { display: none; }
 .notfound { text-align: center; color: var(--muted); padding: 40px 0; }
+
+/* ---------- Avisos: valoración y donación (solo pantalla) ---------- */
+[hidden] { display: none !important; }
+.btn {
+  font: inherit; font-size: 13.5px; font-weight: 600; border-radius: 999px; padding: 7px 16px;
+  border: 1px solid var(--line); background: var(--paper); color: var(--text); cursor: pointer; text-decoration: none;
+  display: inline-flex; align-items: center;
+}
+.btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.btn.link { border-color: transparent; background: none; color: var(--muted); text-decoration: underline; }
+.btn:focus-visible { outline: 3px solid color-mix(in srgb, var(--accent) 45%, transparent); outline-offset: 2px; }
+.review-bar {
+  max-width: 860px; margin: 18px auto -10px; padding: 14px 18px; border-radius: 12px;
+  background: color-mix(in srgb, var(--accent) 9%, var(--paper)); border: 1px solid color-mix(in srgb, var(--accent) 30%, var(--line));
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; font-size: 14px;
+}
+.review-bar p { margin: 0; flex: 1 1 320px; }
+.review-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+dialog.donate {
+  max-width: 440px; width: calc(100% - 40px); border: 0; border-radius: 18px; padding: 30px 30px 24px;
+  background: var(--paper); color: var(--text); text-align: center;
+  box-shadow: 0 24px 70px rgba(0,0,0,.25);
+}
+dialog.donate::backdrop { background: rgba(15, 20, 30, .45); backdrop-filter: blur(2px); }
+dialog.donate img { border-radius: 14px; }
+dialog.donate h2 { margin: 12px 0 8px; font-size: 1.3em; }
+dialog.donate p { margin: 0 0 20px; color: var(--muted); line-height: 1.55; }
+.donate-actions { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; }
 
 /* ---------- Impresión ---------- */
 @page { margin: 16mm 15mm 18mm; }
@@ -144,7 +178,7 @@ body.dark .hljs-built_in, body.dark .hljs-type { color: #ffa657; }
     --paper: #fff; --text: #1f2328; --muted: #656d76; --line: #d8dee4; --user-bg: #f1f5fb; --code-bg: #f6f8fa;
   }
   body.dark .hljs { color: #24292e; }
-  .toolbar { display: none !important; }
+  .toolbar, .review-bar, dialog.donate { display: none !important; }
   main#doc { max-width: none; margin: 0; padding: 0; box-shadow: none; border-radius: 0; background: #fff; }
   .body pre { overflow: visible; break-inside: auto; }
   .body a[href^="http"]::after { content: ""; }

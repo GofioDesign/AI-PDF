@@ -1,0 +1,163 @@
+{
+  "extName": {
+    "message": "AI → PDF"
+  },
+  "extShortName": {
+    "message": "AI → PDF"
+  },
+  "extDescription": {
+    "message": "Druk chats uit ChatGPT, Claude, Gemini, Copilot en andere AI’s af of sla ze op als pdf, strak en met gemarkeerde code."
+  },
+  "actionTitle": {
+    "message": "Dit gesprek afdrukken (Alt+Shift+P)"
+  },
+  "badgeError": {
+    "message": "Deze pagina kan niet worden afgedrukt"
+  },
+  "printTitle": {
+    "message": "Afdrukvoorbeeld"
+  },
+  "printButton": {
+    "message": "Afdrukken / Pdf opslaan"
+  },
+  "optPrompts": {
+    "message": "Mijn berichten tonen"
+  },
+  "optLabels": {
+    "message": "Tonen wie spreekt"
+  },
+  "optCompact": {
+    "message": "Compact"
+  },
+  "optDark": {
+    "message": "Donker thema op scherm"
+  },
+  "optCredit": {
+    "message": "Vermelding in voettekst"
+  },
+  "optFont": {
+    "message": "Grootte"
+  },
+  "fontSmall": {
+    "message": "Klein"
+  },
+  "fontNormal": {
+    "message": "Normaal"
+  },
+  "fontLarge": {
+    "message": "Groot"
+  },
+  "roleUser": {
+    "message": "Jij"
+  },
+  "roleAssistant": {
+    "message": "AI"
+  },
+  "roleContent": {
+    "message": "Inhoud"
+  },
+  "messagesCount": {
+    "message": "$COUNT$ berichten",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "modeSelection": {
+    "message": "Geselecteerde tekst"
+  },
+  "modePage": {
+    "message": "Pagina-inhoud (site niet herkend)"
+  },
+  "notFound": {
+    "message": "Gesprek niet gevonden. Klik nogmaals op het extensiepictogram in het chattabblad."
+  },
+  "printHint": {
+    "message": "Kies in het afdrukvenster ‘Opslaan als pdf’ als bestemming."
+  },
+  "source": {
+    "message": "Bron"
+  },
+  "creditText": {
+    "message": "Gemaakt met"
+  },
+  "welcomeKicker": {
+    "message": "Klaar voor gebruik"
+  },
+  "welcomeLead": {
+    "message": "Sla je gesprekken met elke AI op als pdf of druk ze af, in een strak overzicht zonder menu’s of knoppen. Zo werkt het, in drie stappen:"
+  },
+  "artExtensions": {
+    "message": "Extensies"
+  },
+  "step1Title": {
+    "message": "Zet de extensie vast in de balk"
+  },
+  "step1Text": {
+    "message": "Klik rechtsboven in Chrome op het <strong>puzzelstukje</strong> en daarna op de <strong>punaise</strong> naast ‘AI → PDF’. Dan blijft het pictogram altijd zichtbaar."
+  },
+  "step2Title": {
+    "message": "Open de chat en klik op het pictogram"
+  },
+  "step2Text": {
+    "message": "Open op de website van de AI het gesprek dat je wilt bewaren en klik op het pictogram. De hele chat wordt doorlopen, ook lange."
+  },
+  "step3Title": {
+    "message": "Sla de pdf op"
+  },
+  "step3Text": {
+    "message": "Er opent een tabblad met het strakke overzicht. Pas aan wat je wilt (titel, grootte, je berichten tonen of verbergen) en klik op <strong>Afdrukken / Pdf opslaan</strong>. Kies als bestemming ‘Opslaan als pdf’."
+  },
+  "tipsTitle": {
+    "message": "Tips"
+  },
+  "tipShortcut": {
+    "message": "Sneltoets: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (op de Mac <kbd>Option</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)."
+  },
+  "tipSelection": {
+    "message": "Selecteer je tekst voordat je op het pictogram klikt, dan wordt alleen dat deel afgedrukt."
+  },
+  "tipOther": {
+    "message": "Op websites die geen AI-chats zijn, wordt de hoofdinhoud van de pagina afgedrukt."
+  },
+  "welcomePrivacy": {
+    "message": "De extensie leest het tabblad alleen als je op het pictogram klikt. Alles wordt in je browser verwerkt en er wordt niets naar een server gestuurd."
+  },
+  "welcomeRepo": {
+    "message": "Open source op GitHub"
+  },
+  "moreLink": {
+    "message": "Meer extensies · Steun het project ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensions.html"
+  },
+  "reviewTitle": {
+    "message": "Heb je er iets aan?"
+  },
+  "reviewText": {
+    "message": "Een beoordeling in de Chrome Web Store helpt anderen haar te vinden."
+  },
+  "reviewButton": {
+    "message": "Extensie beoordelen"
+  },
+  "reviewLater": {
+    "message": "Niet nu"
+  },
+  "reviewNever": {
+    "message": "Niet meer tonen"
+  },
+  "donateTitle": {
+    "message": "Bedankt dat je haar al zo lang gebruikt!"
+  },
+  "donateText": {
+    "message": "Deze extensie is gratis en zonder advertenties. Heb je er iets aan gehad, dan helpt een vrijwillige donatie om haar te onderhouden en nieuwe tools te maken."
+  },
+  "donateButton": {
+    "message": "Steunen met een donatie"
+  },
+  "donateLater": {
+    "message": "Niet nu"
+  }
+}
