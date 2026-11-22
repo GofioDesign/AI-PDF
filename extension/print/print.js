@@ -165,6 +165,7 @@ function notFound() {
 (async () => {
   document.querySelectorAll('[data-i18n]').forEach((el) => { el.textContent = t(el.dataset.i18n); });
   document.title = t('printTitle');
+  document.getElementById('moreLink').href = t('moreUrl');
   await initOpts();
   document.getElementById('printBtn').addEventListener('click', () => window.print());
 

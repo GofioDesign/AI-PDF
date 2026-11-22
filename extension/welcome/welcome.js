@@ -20,3 +20,4 @@ function fill(el, text) {
 document.documentElement.lang = (chrome.i18n.getUILanguage() || 'es').split('-')[0];
 document.title = t('extName');
 document.querySelectorAll('[data-i18n]').forEach((el) => fill(el, t(el.dataset.i18n)));
+document.getElementById('moreLink').href = t('moreUrl');

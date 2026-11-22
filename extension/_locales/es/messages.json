@@ -120,5 +120,11 @@
   },
   "welcomeRepo": {
     "message": "Código abierto en GitHub"
+  },
+  "moreLink": {
+    "message": "Más extensiones · Apoya el proyecto ♥"
+  },
+  "moreUrl": {
+    "message": "https://gofiodesign.eu/extensiones.html"
   }
 }
