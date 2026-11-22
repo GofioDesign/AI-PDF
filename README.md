@@ -39,11 +39,15 @@ La extensión recorre la conversación completa antes de imprimir, así que tamb
 
 No recoge, envía ni guarda ningún dato. Solo lee la pestaña en el momento en que pulsas el icono, y todo se procesa en tu navegador. Consulta la [política de privacidad](PRIVACY.md).
 
+## Descarga
+
+Paquete listo para la Chrome Web Store o para instalar a mano: [`releases/ai-pdf-2.0.0.zip`](releases/ai-pdf-2.0.0.zip)
+
 ## Instalación manual
 
-1. Descarga el repositorio y descomprímelo.
+1. Descarga [`releases/ai-pdf-2.0.0.zip`](releases/ai-pdf-2.0.0.zip) (o el repositorio entero) y descomprímelo.
 2. Abre `chrome://extensions` y activa el **Modo de desarrollador**.
-3. Pulsa **Cargar descomprimida** y elige la carpeta `extension`.
+3. Pulsa **Cargar descomprimida** y elige la carpeta descomprimida (o la carpeta `extension` si bajaste el repositorio).
 
 ## Si una IA deja de funcionar
 
